@@ -7,6 +7,13 @@ Image Editing via Compositional Dependencies
 
 `ComplexBench-Edit` is a  benchmark for image editing specifically designed to assess performance on complex instructions involving multiple combined and dependent modifications. Our benchmark systematically evaluates howwell models can handle both parallel and, critically, chain-dependent instructions. Furthermore, we propose a novel vision consistency evaluation method that excludes the influence of modified content by assessing consistency only in the remaining, unaltered regions. We also introduce a simple yet powerful CoT-based approach for image editing.
 
+
+## ✨ TODO
+
+- [ ] Show the comparison results between different baselines and GPT-4o.
+- [ ] Release ComplexBench-Edit Benchmark.
+- [x] Release evaluation code.
+
 # ⭐ Benchmark Collection
 ![Overview Figure](./data/pipeline.jpg)
 
