@@ -32,10 +32,7 @@ ComplexBench-Edit/
 ├── README.md
 ├── baselines/                  # Contains implementations of some baseline models
 │   ├── Gemini-CoT/             # Example: Gemini CoT baseline
-│   ├── anyedit.py
 │   ├── icedit.py
-│   ├── magicbrush.py
-│   └── ultraedit.py
 ├── data/                       # Contains benchmark images and instructions in json file.
     │   ├── instructions/
     │   │   ├── COCO-obj-attr-global/
