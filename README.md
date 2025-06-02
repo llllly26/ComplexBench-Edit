@@ -55,8 +55,6 @@ ComplexBench-Edit/
 
 # 🚀 Running Baselines and Evaluation
 
-(Provide detailed instructions on how to run the baseline models located in `baselines/` and how to use the evaluation scripts in `evaluation/`.)
-
 **Example for running a baseline:**
 ```bash
 python .\baselines\icedit.py
@@ -66,3 +64,5 @@ python .\baselines\icedit.py
 ```bash
 python .\evaluation\ins_eval.py --results_folder ".\edited-image\Gemini\COCO-three-obj\testResults_42" --json_path ".\data\COCO-three-obj\final_update_v2.json" --output_dir ".\edited-image\Gemini\COCO-three-obj\testResults_42_eval_v3_thinking_01_21"
 ```
+
+# 🎈 Case Editing Results
