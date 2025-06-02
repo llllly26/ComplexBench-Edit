@@ -10,8 +10,8 @@ from PIL import Image
 import numpy as np
 
 seeds = [42]
-model_id = '/mnt/disk/ModelHub/stable-diffusion/flux.1-fill-dev'
-lora_path = '/mnt/disk/ModelHub/stable-diffusion/normal-lora'
+model_id = './flux.1-fill-dev'  # local path  or huggingface hub path.
+lora_path = './normal-lora'   # local path  or huggingface hub path.
 pipe = FluxFillPipeline.from_pretrained(model_id, torch_dtype=torch.bfloat16)
 pipe.load_lora_weights(lora_path)
 pipe = pipe.to("cuda")
@@ -20,7 +20,7 @@ pipe = pipe.to("cuda")
 json_names = ['three-chain', 'COCO-obj-attr-global', 'COCO-three-obj', 'COCO-two-obj-one-attr', 'two-chain']
 
 for json_name in json_names:
-    with open(f'/home/clwang/wcls/hubs/editing/MagicBrush/Subset/{json_name}/final_update_v2.json', 'r') as f:
+    with open(f'./data/instructions/{json_name}/final_update_v2.json', 'r') as f:
         data = json.load(f)
     
     prompts = []  #  319.
@@ -28,9 +28,9 @@ for json_name in json_names:
     for key, value in data.items():
         prompt = ",".join(value['new_ins'].split('\r\n'))+"." 
         prompts.append(prompt)
-        img_dir = f"/home/clwang/wcls/hubs/editing/COCO/no_multi3/{key}-{data[key]['img_path']}"
+        img_dir = f"./data/more-object-no-multi3/{key}-{data[key]['img_path']}"
         input_images.append(img_dir)
-        gt_images.append(f"/home/clwang/wcls/hubs/editing/COCO/no_multi3/{key}-{data[key]['img_path']}")  # str. Not list, cause gt.
+        gt_images.append(f"./data/more-object-no-multi3/{key}-{data[key]['img_path']}")  # str. Not list, cause gt.
         img_ids.append(key)
 
     height, width = PIL.Image.open(gt_images[0]).convert('RGB').size
@@ -41,8 +41,8 @@ for json_name in json_names:
         generator = torch.Generator('cuda').manual_seed(seed)
         for i, (prompt, url) in enumerate(zip(prompts, input_images)):
             ## 判断当前image是否被处理过了.
-            if os.path.exists(f'/home/clwang/wcls/hubs/editing/MagicBrush/baselines/edited-image/icedit/{json_name}/testResults_{seed}'):
-                if img_ids[i] in os.listdir(f"/home/clwang/wcls/hubs/editing/MagicBrush/baselines/edited-image/icedit/{json_name}/testResults_{seed}"):
+            if os.path.exists(f'./edited-image/icedit/{json_name}/testResults_{seed}'):
+                if img_ids[i] in os.listdir(f"./edited-image/icedit/{json_name}/testResults_{seed}"):
                     print(f"skip {img_ids[i]} because it has been processed.")
                     continue
             image = PIL.Image.open(url).convert("RGB")
@@ -71,7 +71,7 @@ for json_name in json_names:
 
             result_image = result_image.crop((width,0,width*2,height))
             
-            img_dir = f"/home/clwang/wcls/hubs/editing/MagicBrush/baselines/edited-image/icedit/{json_name}/testResults_{seed}/{img_ids[i]}"
+            img_dir = f"./edited-image/icedit/{json_name}/testResults_{seed}/{img_ids[i]}"
             if not os.path.exists(img_dir):
                 os.makedirs(img_dir)
 

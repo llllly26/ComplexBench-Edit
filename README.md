@@ -10,7 +10,7 @@ Image Editing via Compositional Dependencies
 
 ## ✨ TODO
 
-- [ ] Show the comparison results between different baselines and GPT-4o.
+- [ ] Release the comparison results between different baselines and GPT-4o.
 - [ ] Release ComplexBench-Edit Benchmark.
 - [x] Release evaluation code.
 
@@ -61,6 +61,8 @@ ComplexBench-Edit/
 ```
 
 # 🚀 Running Baselines and Evaluation
+
+For the evaluations of all baselines, we utilize the demo code parameters provided in their respective original repositories. Thanks for all the authors.
 
 **Example for running a baseline:**
 ```bash
