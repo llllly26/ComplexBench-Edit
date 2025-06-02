@@ -1,0 +1,2102 @@
+{
+    "410612": {
+        "img_path": "000000410612.jpg",
+        "new_ins": "Change the boat to a white sailboat.\r\nAdd a sail on the white sailboat.\r\nChange the content of the sail to a smile face.",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "boat",
+                "new_obj": "white sailboat"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "sail"
+            },
+            {
+                "edit_type": "content",
+                "ori obj": "sail",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "278353": {
+        "img_path": "000000278353.jpg",
+        "new_ins": "replace the sheep in the grass field with brown goat\r\nadd a bell on the goat's neck\r\nchange the color of the bell to golden",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "sheep",
+                "new_obj": "brown goat"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "bell"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "bell",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "304291": {
+        "img_path": "000000304291.jpg",
+        "new_ins": "replace the horse with brown cow\r\nadd a bell on the neck of the cow\r\nchange the color of the bell to gold",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "horse",
+                "new_obj": "brown cow"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "bell"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "bell",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "80413": {
+        "img_path": "000000080413.jpg",
+        "new_ins": "replace the teddy_bear in the dashboard with red toy car\r\nadd a toy driver on the red toy car\r\nchange the color of the toy driver to blue clothes",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "teddy_bear",
+                "new_obj": "toy car"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "toy driver"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "toy driver",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "159112": {
+        "img_path": "000000159112.jpg",
+        "new_ins": "change the left orange to apple\r\nadd fries under the apple\r\nchange the color of fries to golden brown",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "left orange",
+                "new_obj": "apple"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "fries"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "fries",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "249025": {
+        "img_path": "000000249025.jpg",
+        "new_ins": "replace the vase with ceramic white pitcher\r\nadd stickers with 'ABC' on the surface of the ceramic pitcher\r\nchange the color of the stickers to yellow",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "vase",
+                "new_obj": "pitcher"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "stickers"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "stickers",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "409268": {
+        "img_path": "000000409268.jpg",
+        "new_ins": "replace the teddy_bear lying on the sand with a baby doll with a pink hat and sandy\r\nadd a pacifier in the baby doll's mouth\r\nchange the color of the pacifier to blue",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "teddy_bear",
+                "new_obj": "baby doll"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "pacifier"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "pacifier",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "335800": {
+        "img_path": "000000335800.jpg",
+        "new_ins": "replace the traffic_light with vintage style street lamp with a lantern\r\nadd a bird on the top of the street lamp\r\nchange the pose of the bird to stand on the lamp and flap wings",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "traffic_light",
+                "new_obj": "street lamp"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "bird"
+            },
+            {
+                "edit_type": "pose",
+                "ori obj": "bird",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "317024": {
+        "img_path": "000000317024.jpg",
+        "new_ins": "replace the zebra with brown horse\r\nadd a cowboy hat on the horse's head\r\nchange the color of cowboy hat to red",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "zebra",
+                "new_obj": "brown horse"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "cowboy hat"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "cowboy hat",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "205647": {
+        "img_path": "000000205647.jpg",
+        "new_ins": "replace the center truck with white bus\r\nadd a driver in the driver seat of the white bus\r\nchange the color of the driver's shirt to blue",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "truck",
+                "new_obj": "bus"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "driver"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "driver",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "260657": {
+        "img_path": "000000260657.jpg",
+        "new_ins": "replace the sign on the left with blue street sign\r\nadd text Main Street on the street sign\r\nchange the color of text Main Street to red",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "sign",
+                "new_obj": "street sign"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "text Main Street"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "text Main Street",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "90155": {
+        "img_path": "000000090155.jpg",
+        "new_ins": "Replace the train in the center of the image with a red tram.\r\nadd a driver to red tram cab.\r\nChange the content of the driver to wearing a blue hat.",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "train",
+                "new_obj": "tram"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "driver"
+            },
+            {
+                "edit_type": "content",
+                "ori obj": "driver",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "382122": {
+        "img_path": "000000382122.jpg",
+        "new_ins": "replace the clock on the tower with stained glass window\r\nadd a paper cutouts on the stained glass window\r\nchange the color of the paper cutouts to red",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "clock",
+                "new_obj": "stained glass window"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "paper cutouts"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "paper cutouts",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "325527": {
+        "img_path": "000000325527.jpg",
+        "new_ins": "replace the teddy bear sitting on the cardboard box with a tabby cat\r\nadd a food bowl in front of the tabby cat\r\nadd a fish in the food bowl",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "teddy bear",
+                "new_obj": "tabby cat"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "food bowl"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "fish"
+            }
+        ]
+    },
+    "301981": {
+        "img_path": "000000301981.jpg",
+        "new_ins": "Replace the giraffe standing in the enclosure with a black and white striped zebra.\r\nadd a saddle to the zebra \r\nadd a bird on the saddle",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "giraffe",
+                "new_obj": "zebra"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "saddle"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "bird"
+            }
+        ]
+    },
+    "453634": {
+        "img_path": "000000453634.jpg",
+        "new_ins": "Replace the toilet in the bathroom with white porcelain sink.\r\nAdd a faucet on the sink.\r\nChange the material of the faucet to ceramic.",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "toilet",
+                "new_obj": "white porcelain sink"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "faucet"
+            },
+            {
+                "edit_type": "material",
+                "ori obj": "faucet",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "32811": {
+        "img_path": "000000032811.jpg",
+        "new_ins": "replace the bird at the bottom left with black cat\r\nadd collar on the cat\r\nchange the color of the collar to blue",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "bird",
+                "new_obj": "black cat"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "collar"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "collar",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "355169": {
+        "img_path": "000000355169.jpg",
+        "new_ins": "replace the clock on the information board with a digital clock\r\nadd a triangle sign on the top of the digital clock\r\nchange the content of the triangle sign to the text Time",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "clock",
+                "new_obj": "digital clock"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "triangle sign"
+            },
+            {
+                "edit_type": "text",
+                "ori obj": "triangle sign",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "149406": {
+        "img_path": "000000149406.jpg",
+        "new_ins": "replace the motorcycle with red vintage bicycle\r\nadd a bell on the handlebar of the bicycle\r\nchange the color of the bell to gold",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "motorcycle",
+                "new_obj": "red vintage bicycle"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "bell"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "bell",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "98261": {
+        "img_path": "000000098261.jpg",
+        "new_ins": "Replace the bird on the perch with a squirrel.\r\nAdd an acorn in the squirrel's paws.\r\nChange the color of the acorn to golden.",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "bird",
+                "new_obj": "squirrel"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "acorn"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "acorn",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "263644": {
+        "img_path": "000000263644.jpg",
+        "new_ins": "replace the bed in the center with wooden couch\r\nadd pillows on the wooden couch\r\nchange the color of pillows to blue",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "bed",
+                "new_obj": "couch"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "pillows"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "pillows",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "564127": {
+        "img_path": "000000564127.jpg",
+        "new_ins": "replace the toilet with white ceramic sink\r\nadd faucet on the sink\r\nchange the material of faucet to gold",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "toilet",
+                "new_obj": "ceramic sink"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "faucet"
+            },
+            {
+                "edit_type": "material",
+                "ori obj": "faucet",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "466085": {
+        "img_path": "000000466085.jpg",
+        "new_ins": "replace the sink at the bottom right with white clawfoot bathtub\r\nadd a towel rack on the wall behind the bathtub\r\nadd a towel on the towel rack",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "sink",
+                "new_obj": "bathtub"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "towel rack"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "towel"
+            }
+        ]
+    },
+    "318908": {
+        "img_path": "000000318908.jpg",
+        "new_ins": "replace the dog in the image with white fluffy cat\r\nadd bow tie on the cat's neck\r\nchange the color of bow tie to red",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "dog",
+                "new_obj": "cat"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "bow tie"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "bow tie",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "517523": {
+        "img_path": "000000517523.jpg",
+        "new_ins": "replace the airplane in the sky with red helicopter\r\nadd a pilot inside the helicopter\r\nchange the pose of pilot to waving hand",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "airplane",
+                "new_obj": "helicopter"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "pilot"
+            },
+            {
+                "edit_type": "pose",
+                "ori obj": "pilot",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "150930": {
+        "img_path": "000000150930.jpg",
+        "new_ins": "Replace the clock hanging on the building exterior with a street sign.\r\nAdd a direction arrow on the top of the street sign.\r\nChange the color of the direction arrow to red.",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "clock",
+                "new_obj": "street sign"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "direction arrow"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "direction arrow",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "185157": {
+        "img_path": "000000185157.jpg",
+        "new_ins": "replace road sign with ceramic decorative plate\r\nadd road sign on the left side of the decorative plate\r\nchange the content of road sign to right arrow",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "road sign",
+                "new_obj": "decorative plate"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "road sign"
+            },
+            {
+                "edit_type": "content",
+                "ori obj": "road sign",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "412240": {
+        "img_path": "000000412240.jpg",
+        "new_ins": "add brown puppy to the front of the shoes\r\nadd collar on the neck of the brown puppy\r\nchange the color of the collar to red",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "brown puppy"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "collar"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "collar",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "437392": {
+        "img_path": "000000437392.jpg",
+        "new_ins": "add a toilet paper holder on the lower wall to the left of the pink toilet.\r\nadd a painting on the top of the toilet paper holder.\r\nchange the content of painting to a pastoral scene.",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "toilet paper holder"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "painting"
+            },
+            {
+                "edit_type": "content",
+                "ori obj": "painting",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "571008": {
+        "img_path": "000000571008.jpg",
+        "new_ins": "add small stop sign below the existing stop sign\r\nadd yield sign sticker on the small stop_sign\r\nchange the text of the yield sign sticker to 'SLOW'",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "stop sign"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "yield sign sticker"
+            },
+            {
+                "edit_type": "text",
+                "ori obj": "yield sign sticker",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "384513": {
+        "img_path": "000000384513.jpg",
+        "new_ins": "add the brown horse next to the donkey\r\nadd the saddle on the back of the brown horse\r\nchange the color of the saddle to red",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "horse"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "saddle"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "saddle",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "543528": {
+        "img_path": "000000543528.jpg",
+        "new_ins": "add small and white airplane at top left blue sky\r\nadd contrails behind the small and white airplane\r\nchange the pose of contrails to longer",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "small and white airplane"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "contrails"
+            },
+            {
+                "edit_type": "pose",
+                "ori obj": "contrails",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "224724": {
+        "img_path": "000000224724.jpg",
+        "new_ins": "add a black security camera at on the wall to the behind of the SEMBA CENTER BUILD.\r\nadd a warning sign below the security camera on the wall\r\nchange the content of the warning sign to text 'Under Surveillance'",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "security camera"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "warning sign"
+            },
+            {
+                "edit_type": "text",
+                "ori obj": "warning sign",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "106048": {
+        "img_path": "000000106048.jpg",
+        "new_ins": "add a red car to the left in front of the white bus\r\nadd person on the left side of the red car\r\nchange the pose of the person to standing",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "red car"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "person"
+            },
+            {
+                "edit_type": "pose",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "240767": {
+        "img_path": "000000240767.jpg",
+        "new_ins": "add poster on the brick wall to the right of the street sign\r\nadd text on the poster\r\nchange the content of the text to Sale Now",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "poster"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "text"
+            },
+            {
+                "edit_type": "text",
+                "ori obj": "text",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "167353": {
+        "img_path": "000000167353.jpg",
+        "new_ins": "add a round wall clock on the right side of the original clock\r\nadd a picture frame above the round wall clock\r\nchange the content of the picture frame to sea photo",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "round wall clock"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "picture frame"
+            },
+            {
+                "edit_type": "content",
+                "ori obj": "picture frame",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "359855": {
+        "img_path": "000000359855.jpg",
+        "new_ins": "add brown leather suitcase in front of the suitcase\r\nadd a sticker on the brown leather suitcase\r\nchange the content of the sticker to smiley face sticker",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "brown leather suitcase"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "sticker"
+            },
+            {
+                "edit_type": "content",
+                "ori obj": "sticker",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "314177": {
+        "img_path": "000000314177.jpg",
+        "new_ins": "add person on the left side of the person\r\nadd glasses on the person's face\r\nchange the color of the glasses's frames to gold",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "person"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "glasses"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "glasses",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "569565": {
+        "img_path": "000000569565.jpg",
+        "new_ins": "add green truck in front of the yellow truck\r\nadd license plate on the green truck\r\nchange the content of the license plate to ABC 123",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "green truck"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "license plate"
+            },
+            {
+                "edit_type": "text",
+                "ori obj": "license plate",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "44652": {
+        "img_path": "000000044652.jpg",
+        "new_ins": "add a helicopter in the top right sky\r\nadd airplane behind the helicopter\r\nchange the color of the airplane to blue",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "helicopter"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "airplane"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "airplane",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "336309": {
+        "img_path": "000000336309.jpg",
+        "new_ins": "add small and white airplane at upper of the existing airplane\r\nadd contrail behind the small and white airplane\r\nchange the pose of contrail to curved",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "small and white airplane"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "contrail"
+            },
+            {
+                "edit_type": "pose",
+                "ori obj": "contrail",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "542089": {
+        "img_path": "000000542089.jpg",
+        "new_ins": "add small white hand washing sink on the right wall\r\nadd a faucet on the small white hand washing sink\r\nadd a mirror above the faucet",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "small white hand washing sink"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "faucet"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "mirror"
+            }
+        ]
+    },
+    "312340": {
+        "img_path": "000000312340.jpg",
+        "new_ins": "add a cat on the left side of the existing cat\r\nadd a red hat on the head of the cat\r\nchange the content of the red hat to the ABC logo",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "cat"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "red hat"
+            },
+            {
+                "edit_type": "text",
+                "ori obj": "red hat",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "546325": {
+        "img_path": "000000546325.jpg",
+        "new_ins": "add a cat on the left of the couch\r\nadd a pillow on the right of the cat\r\nchange the color of the pillow to red",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "cat"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "pillow"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "pillow",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "344611": {
+        "img_path": "000000344611.jpg",
+        "new_ins": "add brown sandbag on the street to the left of the 'WATER ON PAVEMENT' sign\r\nAdd a small fence in front of the brown sandbags\r\nchange the color of the fence to white",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "brown sandbag"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "small fence"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "small fence",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "404249": {
+        "img_path": "000000404249.jpg",
+        "new_ins": "add smiling girl to the right side of the boy\r\nadd sunglasses on the girl's face\r\nchange the color of sunglasses lenses to blue",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "girl"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "sunglasses"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "sunglasses",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "359781": {
+        "img_path": "000000359781.jpg",
+        "new_ins": "add baby giraffe at right of the giraffe\r\nadd a bird to rest on the giraffe's neck \r\nchange the material of the bird to metal",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "baby giraffe"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "bird"
+            },
+            {
+                "edit_type": "material",
+                "ori obj": "bird",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "308193": {
+        "img_path": "000000308193.jpg",
+        "new_ins": "add a helicopter in the sky to the right of the clock\r\nadd a banner under the helicopter \r\nchange the content of the banner to the \"Welcome\"",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "helicopter"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "banner"
+            },
+            {
+                "edit_type": "text",
+                "ori obj": "banner",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "76731": {
+        "img_path": "000000076731.jpg",
+        "new_ins": "change the pen to one ipad\r\nadd a white mouse right of the ipad\r\nChange the material of the left mouse button to ceramic and add a pattern resembling a floral design",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "pen",
+                "new_obj": "ipad"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "white mouse"
+            },
+            {
+                "edit_type": "material",
+                "ori obj": "white mouse",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "357060": {
+        "img_path": "000000357060.jpg",
+        "new_ins": "replace the bird on the beach with crab\r\nadd a shell next to the crab on the right side\r\nchange the color of the shell to white",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "bird",
+                "new_obj": "crab"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "shell"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "shell",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "521231": {
+        "img_path": "000000521231.jpg",
+        "new_ins": "change the bear to golden retriever dog\r\nadd a pair of sunglasses to the dog\r\nchange the color of the sunglasses to blue",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "bear",
+                "new_obj": "dog"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "sunglasses"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "sunglasses",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "508639": {
+        "img_path": "000000508639.jpg",
+        "new_ins": "replace the horse pulling the carriage with a cow\r\nadd a saddle on the cow's back\r\nchange the color of the saddle to red",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "horse",
+                "new_obj": "cow"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "saddle"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "saddle",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "516143": {
+        "img_path": "000000516143.jpg",
+        "new_ins": "Replace the bus on the street with a red tram.\r\nAdd a driver in the driver seat of the red tram.\r\nChange the color of the driver's shirt to blue.",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "bus",
+                "new_obj": "red tram"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "driver"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "driver",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "85195": {
+        "img_path": "000000085195.jpg",
+        "new_ins": "replace the fork next to the cake with silver metallic spoon\r\nadd vanilla ice cream on the plate next to the spoon\r\nadd a strawberry to the ice cream",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "fork",
+                "new_obj": "spoon"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "vanilla ice cream"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "strawberry"
+            }
+        ]
+    },
+    "359937": {
+        "img_path": "000000359937.jpg",
+        "new_ins": "replace the left bus with blue van\r\nadd driver behind the wheel of the van\r\nchange the pose of the driver to smiling",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "left bus",
+                "new_obj": "blue van"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "driver"
+            },
+            {
+                "edit_type": "pose",
+                "ori obj": "driver",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "531036": {
+        "img_path": "000000531036.jpg",
+        "new_ins": "replace the left bus with blue car\r\nadd a license plate on the front of the blue car\r\nchange the content of the license plate to ABC 123",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "left bus",
+                "new_obj": "blue car"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "license plate"
+            },
+            {
+                "edit_type": "text",
+                "ori obj": "license plate",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "419096": {
+        "img_path": "000000419096.jpg",
+        "new_ins": "replace the train in the foreground with a red and white tram\r\nadd people inside the tram\r\nchange the pose of the people to waving",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "train",
+                "new_obj": "tram"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "people"
+            },
+            {
+                "edit_type": "pose",
+                "ori obj": "people",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "427338": {
+        "img_path": "000000427338.jpg",
+        "new_ins": "replace the right motorcycle and the person with brown riding horse\r\nadd a rider on the back of the horse\r\nchange the pose of the rider to waving hand",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "right motorcycle",
+                "new_obj": "horse"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "rider"
+            },
+            {
+                "edit_type": "pose",
+                "ori obj": "rider",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "581062": {
+        "img_path": "000000581062.jpg",
+        "new_ins": "replace the skateboard beneath the person with bike\r\nadd a helmet on the rider's head\r\nchange the color of the helmet to red",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "skateboard",
+                "new_obj": "bike"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "helmet"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "helmet",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "44068": {
+        "img_path": "000000044068.jpg",
+        "new_ins": "Replace the teddy bear on the chair with orange cat.\r\nAdd bell collar on the cat's neck.\r\nChange the color of the bell collar to golden.",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "teddy bear",
+                "new_obj": "orange cat"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "bell collar"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "bell collar",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "163155": {
+        "img_path": "000000163155.jpg",
+        "new_ins": "replace the central cat with brown sitting dog\r\nadd a butterfly on the dog's back\r\nchange the color of the butterfly's wings to colorful ones",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "cat",
+                "new_obj": "dog"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "butterfly"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "butterfly",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "297595": {
+        "img_path": "000000297595.jpg",
+        "new_ins": "replace the surfboard being ridden by the person with yellow inflatable raft\r\nadd a life vest on the raft\r\nchange the color of the life vest to red",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "surfboard",
+                "new_obj": "yellow inflatable raft"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "life vest"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "life vest",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "186296": {
+        "img_path": "000000186296.jpg",
+        "new_ins": "Replace the cat lying on the green carpet with a small brown dog.\r\nAdd a collar on the dog's neck.\r\nChange the color of the collar to red.",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "cat",
+                "new_obj": "dog"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "collar"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "collar",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "95707": {
+        "img_path": "000000095707.jpg",
+        "new_ins": "replace the right bowl with plate of cookies\r\nadd glass of milk to the left of the plate of cookies\r\nadd a straw in the milk glass",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "right bowl",
+                "new_obj": "plate"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "glass of milk"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "straw"
+            }
+        ]
+    },
+    "393115": {
+        "img_path": "000000393115.jpg",
+        "new_ins": "Replace the skateboard in the foreground, next to the person's feet with a blue scooter.\r\nAdd a helmet on the scooter handlebar.\r\nChange the color of the helmet to red.",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "skateboard",
+                "new_obj": "scooter"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "helmet"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "helmet",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "284296": {
+        "img_path": "000000284296.jpg",
+        "new_ins": "replace the left giraffe with black and white striped zebra\r\nadd a bird on the zebra's back\r\nchange the pose of the bird to standing",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "left giraffe",
+                "new_obj": "zebra"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "bird"
+            },
+            {
+                "edit_type": "pose",
+                "ori obj": "bird",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "380203": {
+        "img_path": "000000380203.jpg",
+        "new_ins": "replace the center horse with brown deer\r\nadd a butterfly on the back of the deer\r\nchange the color of the butterfly's wings to yellow",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "horse",
+                "new_obj": "deer"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "butterfly"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "butterfly",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "439522": {
+        "img_path": "000000439522.jpg",
+        "new_ins": "Replace the person in the snow with a robot.\r\nAdd a ski pole to the robot's right hand.\r\nChange the color of the ski pole to golden.",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "person",
+                "new_obj": "robot"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "ski pole"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "ski pole",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "186929": {
+        "img_path": "000000186929.jpg",
+        "new_ins": "add sliced orange at top left\r\nadd apple slice to the right of the sliced orange\r\nchange the color of apple slice to green",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "orange"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": " apple"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": " apple",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "57149": {
+        "img_path": "000000057149.jpg",
+        "new_ins": "Add a pedestrian wearing a red jacket and walking towards the left on the right side of the bus, near the right traffic light.\r\nAdd a bag on the shoulder of the pedestrian.\r\nChange the color of the bag to red.",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "pedestrian"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "bag"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "bag",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "463647": {
+        "img_path": "000000463647.jpg",
+        "new_ins": "add a red and white striped traffic cone at left of the existing traffic cone\r\nadd construction sign at front of the new traffic cone\r\nchange the text on the construction sign to DETOUR AHEAD",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "traffic cone"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "construction sign"
+            },
+            {
+                "edit_type": "text",
+                "ori obj": "construction sign",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "70048": {
+        "img_path": "000000070048.jpg",
+        "new_ins": "add silver fork to the right of the top bowl\r\nadd a knife placed diagonally on the fork\r\nchange the material of the knife to wooden handle",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "fork"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "knife"
+            },
+            {
+                "edit_type": "material",
+                "ori obj": "knife",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "492937": {
+        "img_path": "000000492937.jpg",
+        "new_ins": "add a person to the left of the person in the background\r\nadd a hat on the head of the newly added person\r\nchange the color of the hat to red",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "person"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "hat"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "hat",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "245651": {
+        "img_path": "000000245651.jpg",
+        "new_ins": "add a small and round cake on the desk on the upper left side of the existing cake\r\nadd a candle at the top of the small and round cake\r\nchange the color of the candle to red",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "small and round cake"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "candle"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "candle",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "291619": {
+        "img_path": "000000291619.jpg",
+        "new_ins": "add blue plastic water bottle on the grass ground to the left of the left person\r\nadd towel on the grass ground to the right of the water bottle\r\nchange the color of the towel to blue",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "water bottle"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "towel"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "towel",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "498286": {
+        "img_path": "000000498286.jpg",
+        "new_ins": "Add a puppy dog next to the background car\r\nAdd a collar around the puppy dog's neck.\r\nChange the color of the collar to red.",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "dog"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "collar"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "collar",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "358195": {
+        "img_path": "000000358195.jpg",
+        "new_ins": "Add a robot on the behind side of the existing person\r\nAdd a ball at the feet of the robot\r\nChange the color of the ball to red",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "robot"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "ball"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "ball",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "485895": {
+        "img_path": "000000485895.jpg",
+        "new_ins": "add zebra at on the left side of the tree trunk in the grass field\r\nadd baby giraffe at on the left side of the zebra \r\nchange the pose of baby giraffe to Lying on the grass",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "zebra"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "baby giraffe"
+            },
+            {
+                "edit_type": "pose",
+                "ori obj": "baby giraffe",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "261161": {
+        "img_path": "000000261161.jpg",
+        "new_ins": "add a book on the bench\r\nadd a puppy on the book\r\nchange the pose of the puppy to sitting",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "book"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "puppy"
+            },
+            {
+                "edit_type": "pose",
+                "ori obj": "puppy",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "220764": {
+        "img_path": "000000220764.jpg",
+        "new_ins": "add a plane in the sky \r\nadd a banner under the plane\r\nchange the content of the banner to WELCOME",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "plane"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "banner"
+            },
+            {
+                "edit_type": "text",
+                "ori obj": "banner",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "475191": {
+        "img_path": "000000475191.jpg",
+        "new_ins": "Add a yellow tennis racket to the ground behind the left side of the person on the court\r\nadd a tennis ball on top of the yellow tennis racket\r\nchange the color of the tennis ball to green",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "tennis racket"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "tennis ball"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "tennis ball",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "187362": {
+        "img_path": "000000187362.jpg",
+        "new_ins": "add blue folded towel on the sand to the left of the person\r\nadd sunglasses on the towel\r\nchange the color of the sunglasses to red",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "towel"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "sunglasses"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "sunglasses",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "226171": {
+        "img_path": "000000226171.jpg",
+        "new_ins": "add a white ceramic cup to the right of the cup\r\nadd a sticky note on the surface of the new white ceramic cup\r\nchange the content of the sticky note to \"HOT\"",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "cup"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "sticky note"
+            },
+            {
+                "edit_type": "text",
+                "ori obj": "sticky note",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "372718": {
+        "img_path": "000000372718.jpg",
+        "new_ins": "add small ceramic vase at right side of the existing vase\r\nadd flowers in the small ceramic vase\r\nchange the color of flowers to red",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "vase"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "flowers"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "flowers",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "402783": {
+        "img_path": "000000402783.jpg",
+        "new_ins": "add whole orange at the top left of the plate\r\nadd orange slice below the whole orange\r\nchange the color of orange slice to green",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "whole orange"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "orange slice"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "orange slice",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "14380": {
+        "img_path": "000000014380.jpg",
+        "new_ins": "add white sedan car on the road in front of the red car\r\nadd a driver inside the white sedan car\r\nchange the pose of the driver to waving hand",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "white sedan car"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "driver"
+            },
+            {
+                "edit_type": "pose",
+                "ori obj": "driver",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "16439": {
+        "img_path": "000000016439.jpg",
+        "new_ins": "add the empty wine glass at left of the laptop\r\nadd the wine bottle at left of the wine glass\r\nchange the material of the wine bottle to plastic",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "wine glass"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "wine bottle"
+            },
+            {
+                "edit_type": "material",
+                "ori obj": "wine bottle",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "357903": {
+        "img_path": "000000357903.jpg",
+        "new_ins": "add a fork at right of the top pizza\r\nadd a knife under the fork in the table\r\nchange the material of the knife to wooden",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "fork"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "knife"
+            },
+            {
+                "edit_type": "material",
+                "ori obj": "knife",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "458992": {
+        "img_path": "000000458992.jpg",
+        "new_ins": "add a plate on the table to the right of the pizza\r\nadd a glass of water on the plate\r\nchange the content of the water to adding a straw.",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "plate"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "water"
+            },
+            {
+                "edit_type": "content",
+                "ori obj": "water",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "290619": {
+        "img_path": "000000290619.jpg",
+        "new_ins": "replace the banana on the left side of the container with red apple\r\nadd a leaf on the left side of the red apple\r\nchange the color of the leaf to red",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "banana",
+                "new_obj": "apple"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "leaf"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "leaf",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "479099": {
+        "img_path": "000000479099.jpg",
+        "new_ins": "replace the background bench with stone statue\r\nadd flowers around the statue base\r\nchange the color of flowers to red",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "bench",
+                "new_obj": "statue"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "flowers"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "flowers",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "11615": {
+        "img_path": "000000011615.jpg",
+        "new_ins": "replace the truck on the road sign with yellow car icon\r\nadd rectangular stickers under the yellow car icon on the sign\r\nchange the content of rectangular stickers to  text 'CAR'",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "truck",
+                "new_obj": "yellow car icon"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "rectangular stickers"
+            },
+            {
+                "edit_type": "text",
+                "ori obj": "rectangular stickers",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "484296": {
+        "img_path": "000000484296.jpg",
+        "new_ins": "replace the standing zebra on the left side of the image with brown horse\r\nadd an owl to the brown horse's back\r\nchange the  pose of owl to resting on the horse's back",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "standing zebra",
+                "new_obj": "brown horse"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "owl"
+            },
+            {
+                "edit_type": "pose",
+                "ori obj": "owl",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "286907": {
+        "img_path": "000000286907.jpg",
+        "new_ins": "add white plastic toilet paper holder on the blue wall to the left of the toilet tank\r\nadd toilet paper roll in the toilet paper holder\r\nchange the color of the toilet paper roll to pink",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "toilet paper holder"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "toilet paper roll"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "toilet paper roll",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "370375": {
+        "img_path": "000000370375.jpg",
+        "new_ins": "add a white baseball on top of the baseball bat\r\nadd a badminton on top of the white baseball\r\nchange the color of the badminton to blue",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "white baseball"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "badminton"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "badminton",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "177015": {
+        "img_path": "000000177015.jpg",
+        "new_ins": "add book at on the left couch to the left of the laptop\r\nadd glasses at on the book\r\nchange the color of glasses to red",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "book"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "glasses"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "glasses",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "561223": {
+        "img_path": "000000561223.jpg",
+        "new_ins": "add the grey dolphin jumping out of the water at left of the person\r\nadd the small dolphin behind the grey dolphin\r\nchange the color of the small dolphin to pink",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "dolphin"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "small dolphin"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "small dolphin",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "252507": {
+        "img_path": "000000252507.jpg",
+        "new_ins": "add person on the right side of the person\r\nadd ski goggles on the face of the person on the right side\r\nchange the color of ski goggles to black",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "person"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "ski goggles"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "ski goggles",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "322959": {
+        "img_path": "000000322959.jpg",
+        "new_ins": "add a bunch of grapes between center bowl and bottom-right bowl\r\nadd a leaf on the grape\r\nchange the color of the leaf to red",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "grape"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "leaf"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "leaf",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "475223": {
+        "img_path": "000000475223.jpg",
+        "new_ins": "add a frog at bottom left water area\r\nadd a lily pad underneath the frog\r\nchange the color of the lily pad to darker green",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "frog"
+            },
+            {
+                "edit_type": "chain two",
+                "ori obj": "nothing",
+                "new_obj": "lily pad"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "lily pad",
+                "new_obj": "nothing"
+            }
+        ]
+    }
+}

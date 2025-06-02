@@ -11,7 +11,7 @@ Image Editing via Compositional Dependencies
 ## ✨ TODO
 
 - [ ] Release the comparison results between different baselines and GPT-4o.
-- [ ] Release ComplexBench-Edit Benchmark.
+- [x] Release ComplexBench-Edit Benchmark.
 - [x] Release evaluation code.
 
 # ⭐ Benchmark Collection
@@ -29,7 +29,7 @@ Image Editing via Compositional Dependencies
     ```bash
     pip install -r requirements.txt
     ```
-3.  **Download Datasets:** (put the source images in `data/more-object-no-multi3` directory or please view the data in [TODO](https://github.com/llllly26/ComplexBench-Edit))
+3.  **Download Datasets:** You can download the source image from [ [**Here**](https://drive.google.com/drive/folders/1G7O6LrYEwqls4dSA-iDlqK_2WH3nlF_F?usp=drive_link) ], put the source images in `data/more-object-no-multi3` directory. Overview of datas could be found in [Model card. (soon) ](https://github.com/llllly26/ComplexBench-Edit)
 
 # 🧳 Project Folder Structure
 

@@ -1,0 +1,4349 @@
+{
+    "399764": {
+        "img_path": "000000399764.jpg",
+        "new_ins": "change the material of person's vest to leather\r\nadd an earring to the ear of the person\r\nchange the cow to a brown horse",
+        "edit pair": [
+            {
+                "edit_type": "material",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "earring"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "cow",
+                "new_obj": "horse"
+            }
+        ]
+    },
+    "480842": {
+        "img_path": "000000480842.jpg",
+        "new_ins": "change the pose of the foreground giraffe to lower its head to eat grass\r\nadd a bird on the top left sky\r\nchange the background giraffe to zebra",
+        "edit pair": [
+            {
+                "edit_type": "pose",
+                "ori obj": "foreground giraffe",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "bird"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "background giraffe",
+                "new_obj": "zebra"
+            }
+        ]
+    },
+    "117197": {
+        "img_path": "000000117197.jpg",
+        "new_ins": "change the pattern of person's shirt to striped\r\nadd a brown leather purse left of the woman on the brick ground\r\ndelete the foreground obstacles",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "purse"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "foreground obstacles",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "308466": {
+        "img_path": "000000308466.jpg",
+        "new_ins": "change the content of the mirror to a pastoral painting\r\nadd the towel on the towel bar\r\ndelete the toilet",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "mirror",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "towel"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "toilet",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "185950": {
+        "img_path": "000000185950.jpg",
+        "new_ins": "delete the skateboard\r\nadd the red water bottle on the ground\r\ndelete the person",
+        "edit pair": [
+            {
+                "edit_type": "delete object",
+                "ori obj": "skateboard",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "water bottle"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "171740": {
+        "img_path": "000000171740.jpg",
+        "new_ins": "change the material of the couch to leather\r\ndelete the lamp\r\ndelete the clock",
+        "edit pair": [
+            {
+                "edit_type": "material",
+                "ori obj": "couch",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "lamp",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "clock",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "209747": {
+        "img_path": "000000209747.jpg",
+        "new_ins": "delete the brush\r\nadd a pair of glasses to the cat\r\nadd a hat to the cat",
+        "edit pair": [
+            {
+                "edit_type": "delete object",
+                "ori obj": "brush",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "glasses"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "hat"
+            }
+        ]
+    },
+    "52591": {
+        "img_path": "000000052591.jpg",
+        "new_ins": "change the content of person's clothes to  a cute cartoon character pattern\r\nadd a red beanie on the woman's head\r\nchange the skis to wooden snowboard",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "beanie"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "skis",
+                "new_obj": "snowboard"
+            }
+        ]
+    },
+    "124442": {
+        "img_path": "000000124442.jpg",
+        "new_ins": "change the pattern of kite to star patterns\r\nadd a bird in the sky\r\ndelete the hat from the person",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "kite",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "bird"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "hat",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "386879": {
+        "img_path": "000000386879.jpg",
+        "new_ins": "change the material of tennis racket to wooden\r\ndelete the patterns from the clothes\r\nadd a wristband to the person",
+        "edit pair": [
+            {
+                "edit_type": "material",
+                "ori obj": "tennis racket",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "clothes",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "wristband"
+            }
+        ]
+    },
+    "489924": {
+        "img_path": "000000489924.jpg",
+        "new_ins": "change the pattern of person's t-shirt to pure blue\r\nadd the traffic cone on the road to the right of the skateboard\r\nchange the skateboard to red electric scooter",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "traffic cone"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "skateboard",
+                "new_obj": "scooter"
+            }
+        ]
+    },
+    "509719": {
+        "img_path": "000000509719.jpg",
+        "new_ins": "change the pose of the left bird to sitting\r\nadd a small chick on the right side of the picture\r\nadd a strap to the leg of the right bird",
+        "edit pair": [
+            {
+                "edit_type": "pose",
+                "ori obj": "left bird",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "chick"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "strap"
+            }
+        ]
+    },
+    "157807": {
+        "img_path": "000000157807.jpg",
+        "new_ins": "change the pose of cat to lying down\r\nadd a blue towel on the wall above the toilet\r\nadd a landscape painting on the right wall",
+        "edit pair": [
+            {
+                "edit_type": "pose",
+                "ori obj": "cat",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "towel"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "landscape painting"
+            }
+        ]
+    },
+    "267940": {
+        "img_path": "000000267940.jpg",
+        "new_ins": "change the content of boat to NORWAY\r\nadd a person next to the bench\r\nchange the bench to wooden chair",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "boat",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "person"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "bench",
+                "new_obj": "chair"
+            }
+        ]
+    },
+    "394611": {
+        "img_path": "000000394611.jpg",
+        "new_ins": "change the pose of right giraffe to lifting the head\r\nadd a zebra in the right foreground\r\nchange the left giraffe to elephant",
+        "edit pair": [
+            {
+                "edit_type": "pose",
+                "ori obj": "right giraffe",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "zebra"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "left giraffe",
+                "new_obj": "elephant"
+            }
+        ]
+    },
+    "462643": {
+        "img_path": "000000462643.jpg",
+        "new_ins": "change the content of cell phone to clock display\r\nadd the screw top left of the cell phone screen\r\nchange the person to robot hand",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "cell phone",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "screw"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "person",
+                "new_obj": "robot hand"
+            }
+        ]
+    },
+    "400922": {
+        "img_path": "000000400922.jpg",
+        "new_ins": "change the time of clock to 3:00\r\nadd the security camera on the wall above the KeyBank sign\r\nchange the airplane to kite",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "clock",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "security camera"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "airplane",
+                "new_obj": "kite"
+            }
+        ]
+    },
+    "138856": {
+        "img_path": "000000138856.jpg",
+        "new_ins": "change the display of oven to temperature\r\nadd the knife left of the bread on the baking tray\r\nchange the bowl to red pot",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "oven",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "knife"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "bowl",
+                "new_obj": "pot"
+            }
+        ]
+    },
+    "159684": {
+        "img_path": "000000159684.jpg",
+        "new_ins": "change the content of train to ABC XYZ 123\r\nadd a person on the platform in front of the train\r\nchange the clock to colorful advertisement poster",
+        "edit pair": [
+            {
+                "edit_type": "text",
+                "ori obj": "train",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "person"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "clock",
+                "new_obj": "poster"
+            }
+        ]
+    },
+    "159311": {
+        "img_path": "000000159311.jpg",
+        "new_ins": "delete the foreground zebra\r\nadd the bird on the grass in the bottom right corner\r\nchange the background zebra to tall giraffe",
+        "edit pair": [
+            {
+                "edit_type": "delete object",
+                "ori obj": "foreground zebra",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "bird"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "background zebra",
+                "new_obj": "giraffe"
+            }
+        ]
+    },
+    "366178": {
+        "img_path": "000000366178.jpg",
+        "new_ins": "change the color of the left car to red\r\nadd a red traffic cone on the snow near the right guardrail\r\nchange the right car to blue truck",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "left car",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "traffic cone"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "right car",
+                "new_obj": "blue truck"
+            }
+        ]
+    },
+    "554156": {
+        "img_path": "000000554156.jpg",
+        "new_ins": "change the content of person's clothes to red stars\r\nadd a yellow tennis ball top left of the image\r\ndelete the tennis racket",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "tennis ball"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "tennis racket",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "2587": {
+        "img_path": "000000002587.jpg",
+        "new_ins": "change the content of donut to have sprinkles\r\ndelete the number 2010 in the upper left corner\r\nchange the banana to red apple",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "donut",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "2010",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "banana",
+                "new_obj": "apple"
+            }
+        ]
+    },
+    "343937": {
+        "img_path": "000000343937.jpg",
+        "new_ins": "change the pattern of person's jacket to striped\r\nadd the pair of ski poles on the left side of the snowboarder\r\nchange the snowboard to ski",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "ski poles"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "snowboard",
+                "new_obj": "ski"
+            }
+        ]
+    },
+    "122606": {
+        "img_path": "000000122606.jpg",
+        "new_ins": "change the destination of bus to DOWNTOWN\r\nchange the license plate number to 001234\r\ndelete the driver",
+        "edit pair": [
+            {
+                "edit_type": "text",
+                "ori obj": "bus",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "text",
+                "ori obj": "license plate",
+                "new_obj": "sticker"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "driver",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "511384": {
+        "img_path": "000000511384.jpg",
+        "new_ins": "change the logo of frisbee to star pattern\r\nadd the bird in the sky to the right of the frisbee\r\nremove clouds from the sky",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "frisbee",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "bird"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "clouds",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "143931": {
+        "img_path": "000000143931.jpg",
+        "new_ins": "change the text of bus \"SCOTT BROWN\" to \"JOHN SMITH\"\r\ndelete the text \"WWW.ScottBrown.com\" in lower right side on the bus\r\ndelete the two stars on the bus",
+        "edit pair": [
+            {
+                "edit_type": "text",
+                "ori obj": "bus",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "bus",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "bus",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "191672": {
+        "img_path": "000000191672.jpg",
+        "new_ins": "change the color of surfboard to red\r\nadd the seagull in the top left sky\r\ndelete the person",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "surfboard",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "seagull"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "58029": {
+        "img_path": "000000058029.jpg",
+        "new_ins": "change the material of sink to glass\r\nadd Towels to the Towel Rack\r\ndelete the toilet",
+        "edit pair": [
+            {
+                "edit_type": "material",
+                "ori obj": "sink",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "Towels"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "toilet",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "67534": {
+        "img_path": "000000067534.jpg",
+        "new_ins": "change the pattern of tie to stripe pattern\r\nadd the pocket square on the left chest pocket\r\nadd a mask to a person",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "tie",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "pocket square"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "mask"
+            }
+        ]
+    },
+    "222455": {
+        "img_path": "000000222455.jpg",
+        "new_ins": "change the pose of microwave to closed\r\nremove foods from the oven\r\nchange the text \"HOT\" on oven to \"ABC\"",
+        "edit pair": [
+            {
+                "edit_type": "pose",
+                "ori obj": "microwave",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "oven",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "text",
+                "ori obj": "oven",
+                "new_obj": "air fryer"
+            }
+        ]
+    },
+    "153217": {
+        "img_path": "000000153217.jpg",
+        "new_ins": "remove the stickers on the motorcycle front fork\r\nadd a black helmet on the motorcycle seat\r\nchange the cat to dog",
+        "edit pair": [
+            {
+                "edit_type": "delete object",
+                "ori obj": "motorcycle",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "helmet"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "cat",
+                "new_obj": "dog"
+            }
+        ]
+    },
+    "196754": {
+        "img_path": "000000196754.jpg",
+        "new_ins": "change the content of stop sign to SLOW\r\nadd a traffic cone on the street\r\nremove the blue curtains",
+        "edit pair": [
+            {
+                "edit_type": "text",
+                "ori obj": "stop sign",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "traffic cone"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "curtains",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "39551": {
+        "img_path": "000000039551.jpg",
+        "new_ins": "change the color of person's dress to blue\r\nadd the yellow tennis ball on the court\r\ndelete the shadow of the tennis racket on the ground",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "tennis ball"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "tennis racket",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "516804": {
+        "img_path": "000000516804.jpg",
+        "new_ins": "change the number of front sign to 100\r\nadd a white bird in the blue sky to the left of the bus stop sign\r\nchange the left bus to yellow taxi",
+        "edit pair": [
+            {
+                "edit_type": "text",
+                "ori obj": "sign",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "white bird"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "left bus",
+                "new_obj": "yellow taxi"
+            }
+        ]
+    },
+    "521601": {
+        "img_path": "000000521601.jpg",
+        "new_ins": "change the content of donut to with sprinkles\r\nadd a silver spoon top left of the donut\r\nadd a silver fork top right of the donut",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "donut",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "spoon"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "fork"
+            }
+        ]
+    },
+    "452891": {
+        "img_path": "000000452891.jpg",
+        "new_ins": "change the pose of dog to sitting\r\nadd the red bowl on the bench to the right of the dog\r\nchange the material of the bench to metal",
+        "edit pair": [
+            {
+                "edit_type": "pose",
+                "ori obj": "dog",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "bowl"
+            },
+            {
+                "edit_type": "material",
+                "ori obj": "bench",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "431848": {
+        "img_path": "000000431848.jpg",
+        "new_ins": "change the pattern of the front person's t-shirt to striped pattern\r\nremove no parking sign \r\nchange the pose of rear person to standing",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "front person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "parking sign",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "pose",
+                "ori obj": "rear person",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "305343": {
+        "img_path": "000000305343.jpg",
+        "new_ins": "change the drawing of left cup to cat drawing\r\nadd the silver spoon between the two cups on the table\r\nchange the drawing of right cup to bear drawing",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "left cup",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "spoon"
+            },
+            {
+                "edit_type": "content",
+                "ori obj": "right cup",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "64462": {
+        "img_path": "000000064462.jpg",
+        "new_ins": "change the color of person to red jacket\r\nadd the snowboard left of the skis\r\nchange the material of the snow to a beach",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "snowboard"
+            },
+            {
+                "edit_type": "material",
+                "ori obj": "snow",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "449579": {
+        "img_path": "000000449579.jpg",
+        "new_ins": "change the pattern of person's clothes to  a smiling face\r\nadd the tennis ball in front of the player's feet on the court\r\nchange the material of tennis racket to wooden",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "tennis ball"
+            },
+            {
+                "edit_type": "material",
+                "ori obj": "tennis racket",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "251537": {
+        "img_path": "000000251537.jpg",
+        "new_ins": "delete the carrot\r\ndelete the onion\r\ndelete the cilantro",
+        "edit pair": [
+            {
+                "edit_type": "delete object",
+                "ori obj": "carrot",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "onion",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "cilantro",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "243199": {
+        "img_path": "000000243199.jpg",
+        "new_ins": "change the content of laptop to desktop wallpaper with nature image\r\nadd the book on the bed next to the laptop\r\nchange the pattern of the bed to floral pattern",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "laptop",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "book"
+            },
+            {
+                "edit_type": "content",
+                "ori obj": "bed",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "134722": {
+        "img_path": "000000134722.jpg",
+        "new_ins": "change the material of train window to transparent\r\nadd the trash can next to the bench\r\nchange the material of bench to metal",
+        "edit pair": [
+            {
+                "edit_type": "material",
+                "ori obj": "train",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "trash can"
+            },
+            {
+                "edit_type": "material",
+                "ori obj": "bench",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "79565": {
+        "img_path": "000000079565.jpg",
+        "new_ins": "change the pose of right giraffe to bending down to drink water\r\nadd a river in the background\r\ndelete the left giraffe",
+        "edit pair": [
+            {
+                "edit_type": "pose",
+                "ori obj": "right giraffe",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "river"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "left giraffe",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "292330": {
+        "img_path": "000000292330.jpg",
+        "new_ins": "change the pose of dog to sitting\r\nadd the baseball on the ground next to the baseball bat\r\nchange the text of baseball bat to no text",
+        "edit pair": [
+            {
+                "edit_type": "pose",
+                "ori obj": "dog",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "baseball"
+            },
+            {
+                "edit_type": "text",
+                "ori obj": "baseball bat",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "76261": {
+        "img_path": "000000076261.jpg",
+        "new_ins": "remove the bottom bird\r\nadd an airplane top left sky\r\nremove the top bird",
+        "edit pair": [
+            {
+                "edit_type": "delete object",
+                "ori obj": "bottom bird",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "airplane"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "top bird",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "471087": {
+        "img_path": "000000471087.jpg",
+        "new_ins": "change the pattern of tie to polka dot pattern\r\nadd the clock on the brick wall to the right of the person's head\r\nchange the pose of person to look to the right",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "tie",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "clock"
+            },
+            {
+                "edit_type": "pose",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "80671": {
+        "img_path": "000000080671.jpg",
+        "new_ins": "change the pose of person to standing up\r\nadd the a pair of ski poles on the snow to the left of the person\r\nchange the color of skis to blue",
+        "edit pair": [
+            {
+                "edit_type": "pose",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "ski poles"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "skis",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "295478": {
+        "img_path": "000000295478.jpg",
+        "new_ins": "change the color of handbag to red\r\nremove the dog leash\r\nchange the material of ground to iles",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "handbag",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "dog leash",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "material",
+                "ori obj": "ground",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "568213": {
+        "img_path": "000000568213.jpg",
+        "new_ins": "change the logo of person's shirt to ABC\r\nadd the orange cone on the grass field to the right of the person\r\nchange the color of frisbee to blue",
+        "edit pair": [
+            {
+                "edit_type": "text",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "cone"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "frisbee",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "525155": {
+        "img_path": "000000525155.jpg",
+        "new_ins": "change the color of sheep to black\r\nadd the headband to the person\r\nchange the content of person's sweater to stripes",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "sheep",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "headband"
+            },
+            {
+                "edit_type": "content",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "283037": {
+        "img_path": "000000283037.jpg",
+        "new_ins": "change the digit content of traffic light to 88\r\nremove the sign on the right of traffic light\r\nchange the color of car to blue",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "traffic light",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "right sign",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "car",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "400794": {
+        "img_path": "000000400794.jpg",
+        "new_ins": "change the pattern of person's shirt to plaid pattern\r\nadd water cup on the table\r\nchange the color of bottle to red",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "water cup"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "bottle",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "158227": {
+        "img_path": "000000158227.jpg",
+        "new_ins": "change the text on the person's shirt to CHAMPION\r\nadd the baseball in front of the baseball bat\r\nchange the material of the baseball bat to wooden",
+        "edit pair": [
+            {
+                "edit_type": "text",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "baseball"
+            },
+            {
+                "edit_type": "material",
+                "ori obj": "baseball bat",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "257865": {
+        "img_path": "000000257865.jpg",
+        "new_ins": "remove both wristbands\r\nadd a yellow tennis ball on the left side of the person\r\nchange the color of tennis racket to blue",
+        "edit pair": [
+            {
+                "edit_type": "delete object",
+                "ori obj": "wristband",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "tennis ball"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "tennis racket",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "453040": {
+        "img_path": "000000453040.jpg",
+        "new_ins": "change the pattern of cake to stripes\r\nadd the white candle on the dining table to the right of the cake\r\nremove the flower on the cake",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "cake",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "candle"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "flower",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "498807": {
+        "img_path": "000000498807.jpg",
+        "new_ins": "change the material of surfboard to wooden\r\nadd a jumping dolphin at the background sea\r\nchange the pose of person to standing straight",
+        "edit pair": [
+            {
+                "edit_type": "material",
+                "ori obj": "surfboard",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "dolphin"
+            },
+            {
+                "edit_type": "pose",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "364126": {
+        "img_path": "000000364126.jpg",
+        "new_ins": "change the content of person to t-shirt with text 'SURF'\r\nadd the seagull in the top left image\r\nchange the content of surfboard to with stripes",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "seagull"
+            },
+            {
+                "edit_type": "content",
+                "ori obj": "surfboard",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "199681": {
+        "img_path": "000000199681.jpg",
+        "new_ins": "change the display of microwave to 8\r\nremove the characters on the microwave\r\nchange the color of teddy bear to yellow",
+        "edit pair": [
+            {
+                "edit_type": "text",
+                "ori obj": "microwave",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "microwave",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "teddy bear",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "327780": {
+        "img_path": "000000327780.jpg",
+        "new_ins": "change the material of fork to wooden\r\nadd the red candle on the top of the cake\r\nchange the color of sprinkles of cake to red",
+        "edit pair": [
+            {
+                "edit_type": "material",
+                "ori obj": "fork",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "candle"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "cake",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "248752": {
+        "img_path": "000000248752.jpg",
+        "new_ins": "change the number of person to 8\r\nadd the baseball on the ground in front of the baseball player\r\nchange the material of baseball bat to metal",
+        "edit pair": [
+            {
+                "edit_type": "text",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "baseball"
+            },
+            {
+                "edit_type": "material",
+                "ori obj": "baseball bat",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "14007": {
+        "img_path": "000000014007.jpg",
+        "new_ins": "change the color of light to yellow\r\nadd the small green plant pot on the top of white refrigerator\r\nchange the pose of cat to look at the camera",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "light",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "plant pot"
+            },
+            {
+                "edit_type": "pose",
+                "ori obj": "cat",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "286523": {
+        "img_path": "000000286523.jpg",
+        "new_ins": "change the content of the hat of person to a star logo\r\nadd the colorful parrot on the right side of the top left yellow sign\r\nremove the cell phone",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "hat",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "parrot"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "cell phone",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "3553": {
+        "img_path": "000000003553.jpg",
+        "new_ins": "change the pattern of skateboard to striped pattern\r\nadd the helmet on the wooden surface to the left of the skateboard\r\nremove the iron block from the background",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "skateboard",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "helmet"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "iron block",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "60347": {
+        "img_path": "000000060347.jpg",
+        "new_ins": "change the color of person's clothes to blue\r\nadd the red book on the bench next to the person\r\nchange the material of bench to metal",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "book"
+            },
+            {
+                "edit_type": "material",
+                "ori obj": "bench",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "234779": {
+        "img_path": "000000234779.jpg",
+        "new_ins": "change the content of front sandwich to cheese filling\r\nadd the glass of juice on the table\r\nchange the content of back sandwich to vegetable filling",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "front sandwich",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "juice cup"
+            },
+            {
+                "edit_type": "content",
+                "ori obj": "back sandwich",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "546829": {
+        "img_path": "000000546829.jpg",
+        "new_ins": "change the pose of dog to sitting\r\nadd the bottle on the bench next to the dog\r\nchange the material of bench to metal",
+        "edit pair": [
+            {
+                "edit_type": "pose",
+                "ori obj": "dog",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "bottle"
+            },
+            {
+                "edit_type": "material",
+                "ori obj": "bench",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "30494": {
+        "img_path": "000000030494.jpg",
+        "new_ins": "change the pose of dog to sitting\r\nadd the stick on the ground to the left of the tree trunk\r\nchange the color of frisbee to blue",
+        "edit pair": [
+            {
+                "edit_type": "pose",
+                "ori obj": "dog",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "stick"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "frisbee",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "33759": {
+        "img_path": "000000033759.jpg",
+        "new_ins": "change the text on the shirt of person to CUBS\r\ndelete the baseball bat in the hands of the person\r\nchange the car in the background to red bicycle",
+        "edit pair": [
+            {
+                "edit_type": "text",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "baseball bat",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "car",
+                "new_obj": "bicycle"
+            }
+        ]
+    },
+    "17899": {
+        "img_path": "000000017899.jpg",
+        "new_ins": "change the color of person's clothes to blue and white striped shirt\r\ndelete the far right cup\r\ndelete the two breads",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "far right cup",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "breads",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "255747": {
+        "img_path": "000000255747.jpg",
+        "new_ins": "change the meat of front sandwich to turkey\r\ndelete the back sandwich\r\ndelete the empty plate in the background",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "front sandwich",
+                "new_obj": "turkey"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "back sandwich",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "empty plate",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "205333": {
+        "img_path": "000000205333.jpg",
+        "new_ins": "change the pose of right person to waving hand\r\ndelete the left person\r\nchange the right skis to red snowboard",
+        "edit pair": [
+            {
+                "edit_type": "pose",
+                "ori obj": "right person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "left person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "right skis",
+                "new_obj": "snowboard"
+            }
+        ]
+    },
+    "186624": {
+        "img_path": "000000186624.jpg",
+        "new_ins": "change the color of front train to blue\r\ndelete the handbag carried by the person on the left\r\nchange the backpack to black duffel bag",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "front train",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "handbag",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "backpack",
+                "new_obj": "duffel bag"
+            }
+        ]
+    },
+    "416256": {
+        "img_path": "000000416256.jpg",
+        "new_ins": "change the pose of cat to sitting\r\ndelete the black laptop\r\nchange the white keyboard to book",
+        "edit pair": [
+            {
+                "edit_type": "pose",
+                "ori obj": "cat",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "black laptop",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "white keyboard",
+                "new_obj": "book"
+            }
+        ]
+    },
+    "195918": {
+        "img_path": "000000195918.jpg",
+        "new_ins": "change the content of left computer to display a mountain landscape\r\ndelete the mouse on the desk\r\ndelete the right computer",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "left computer",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "mouse",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "right computer",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "261706": {
+        "img_path": "000000261706.jpg",
+        "new_ins": "change the pose of the cat to sitting\r\ndelete the remote at the bottom left\r\ndelete the pillow",
+        "edit pair": [
+            {
+                "edit_type": "pose",
+                "ori obj": "cat",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "remote",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "pillow",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "516173": {
+        "img_path": "000000516173.jpg",
+        "new_ins": "change the content of foreground person to QUIKSILVER\r\ndelete the background person in the far background\r\nchange the surfboard to blue bodyboard",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "foreground person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "background person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "surfboard",
+                "new_obj": "bodyboard"
+            }
+        ]
+    },
+    "171788": {
+        "img_path": "000000171788.jpg",
+        "new_ins": "change the sports ball to basketball\r\ndelete the tennis racket at the bottom right\r\nremove the wrist guard",
+        "edit pair": [
+            {
+                "edit_type": "change object",
+                "ori obj": "sports ball",
+                "new_obj": "basketball"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "tennis racket",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "wrist guard",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "35197": {
+        "img_path": "000000035197.jpg",
+        "new_ins": "change the wall pattern of the distant building to graffiti\r\nremove the back person\r\nremove the front person",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "building",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "back person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "front person",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "209753": {
+        "img_path": "000000209753.jpg",
+        "new_ins": "change the content of background painting to character portrait\r\ndelete the tv in the background\r\nremove the earrings from the person",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "painting",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "tv",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "earrings",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "210855": {
+        "img_path": "000000210855.jpg",
+        "new_ins": "change the content of vase to with flowers\r\ndelete the left bottle on the sink counter\r\ndelete the toilet",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "vase",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "left bottle",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "toilet",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "376365": {
+        "img_path": "000000376365.jpg",
+        "new_ins": "change the material of vase to ceramic\r\ndelete the left cup\r\ndelete the right cup",
+        "edit pair": [
+            {
+                "edit_type": "material",
+                "ori obj": "vase",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "left cup",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "right cup",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "446005": {
+        "img_path": "000000446005.jpg",
+        "new_ins": "change the material of oven to stainless steel\r\ndelete the left book on the countertop\r\nchange the microwave to stainless steel range hood",
+        "edit pair": [
+            {
+                "edit_type": "material",
+                "ori obj": "oven",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "left book",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "microwave",
+                "new_obj": "range hood"
+            }
+        ]
+    },
+    "319696": {
+        "img_path": "000000319696.jpg",
+        "new_ins": "change the material of the microwave to stainless steel\r\ndelete the teddy bear on the wall\r\nchange the bottle to blue ceramic vase",
+        "edit pair": [
+            {
+                "edit_type": "material",
+                "ori obj": "microwave",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "teddy bear",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "bottle",
+                "new_obj": "vase"
+            }
+        ]
+    },
+    "284764": {
+        "img_path": "000000284764.jpg",
+        "new_ins": "change the material of bowl to glass\r\ndelete the cup on the right side of the dining table\r\nchange the dining table to wooden table",
+        "edit pair": [
+            {
+                "edit_type": "material",
+                "ori obj": "bowl",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "cup",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "material",
+                "ori obj": "dining table",
+                "new_obj": "table"
+            }
+        ]
+    },
+    "65736": {
+        "img_path": "000000065736.jpg",
+        "new_ins": "change the content of person to NAVY on the shirt\r\ndelete the sports ball in the air near the tennis racket\r\nchange the tennis racket to baseball bat",
+        "edit pair": [
+            {
+                "edit_type": "text",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "sports ball",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "tennis racket",
+                "new_obj": "baseball bat"
+            }
+        ]
+    },
+    "424135": {
+        "img_path": "000000424135.jpg",
+        "new_ins": "change the color of right person's robe to red\r\ndelete the left person on the left side of the clock\r\nchange the clock to historical painting",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "right person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "left person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "clock",
+                "new_obj": "painting"
+            }
+        ]
+    },
+    "414034": {
+        "img_path": "000000414034.jpg",
+        "new_ins": "change the color of person's shirt to blue\r\ndelete the remote on the hand\r\nchange the bottle to a colorful toy car",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "remote",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "bottle",
+                "new_obj": "toy car"
+            }
+        ]
+    },
+    "323895": {
+        "img_path": "000000323895.jpg",
+        "new_ins": "change the color of right person's clothes to blue\r\ndelete the wristband of right person\r\nchange the tennis racket to badminton racket",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "right person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "right person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "tennis racket",
+                "new_obj": "badminton racket"
+            }
+        ]
+    },
+    "128051": {
+        "img_path": "000000128051.jpg",
+        "new_ins": "change the content of bottom bus to destination sign 'School Bus'\r\ndelete the top bus\r\nchange the truck to car",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "bottom bus",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "top bus",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "truck",
+                "new_obj": "car"
+            }
+        ]
+    },
+    "222118": {
+        "img_path": "000000222118.jpg",
+        "new_ins": "change the pattern of handbag to floral pattern\r\ndelete the cell phone in person's right hand\r\nadd graffiti on the background wall",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "handbag",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "cell phone",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "graffiti"
+            }
+        ]
+    },
+    "159977": {
+        "img_path": "000000159977.jpg",
+        "new_ins": "change the pattern of bottom left zebra to tiger stripes\r\ndelete the background bird\r\nchange the top right giraffe to grey standing elephant",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "left zebra",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "bird",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "right giraffe",
+                "new_obj": "elephant"
+            }
+        ]
+    },
+    "356432": {
+        "img_path": "000000356432.jpg",
+        "new_ins": "change the material of couch to leather\r\ndelete the keyboard on the coffee table\r\nchange the cup to white ceramic vase",
+        "edit pair": [
+            {
+                "edit_type": "material",
+                "ori obj": "couch",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "keyboard",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "cup",
+                "new_obj": "vase"
+            }
+        ]
+    },
+    "287667": {
+        "img_path": "000000287667.jpg",
+        "new_ins": "change the material of dining table to glass\r\ndelete the book at the bottom left\r\nchange the carrot to yellow banana",
+        "edit pair": [
+            {
+                "edit_type": "material",
+                "ori obj": "dining table",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "book",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "carrot",
+                "new_obj": "banana"
+            }
+        ]
+    },
+    "455219": {
+        "img_path": "000000455219.jpg",
+        "new_ins": "change the content of right person to striped shirt\r\ndelete the back cow\r\nchange the front cow to brown horse",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "right person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "back cow",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "front cow",
+                "new_obj": "horse"
+            }
+        ]
+    },
+    "529762": {
+        "img_path": "000000529762.jpg",
+        "new_ins": "delete the cell phone\r\ndelete the bowl at the center foreground\r\ndelete the wine glass",
+        "edit pair": [
+            {
+                "edit_type": "delete object",
+                "ori obj": "cell phone",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "bowl",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "wine glass",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "258793": {
+        "img_path": "000000258793.jpg",
+        "new_ins": "change the color of car to white\r\ndelete the front parking meter\r\nchange the background to a rural countryside",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "car",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "front parking meter",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change background",
+                "ori obj": "person",
+                "new_obj": "cyclist"
+            }
+        ]
+    },
+    "180383": {
+        "img_path": "000000180383.jpg",
+        "new_ins": "change the content of tv to cartoon\r\ndelete the clock on the wall to the left\r\nchange the cow to wooden horse",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "tv",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "clock",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "cow",
+                "new_obj": "horse"
+            }
+        ]
+    },
+    "363875": {
+        "img_path": "000000363875.jpg",
+        "new_ins": "change the pattern of person's shirt to striped\r\ndelete the text of bus in the background\r\nchange the motorcycle to red bicycle",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "bus",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "motorcycle",
+                "new_obj": "bicycle"
+            }
+        ]
+    },
+    "51610": {
+        "img_path": "000000051610.jpg",
+        "new_ins": "change the content of laptop to document\r\ndelete the person in the right\r\nadd a painting on the wall",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "laptop",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "painting"
+            }
+        ]
+    },
+    "222735": {
+        "img_path": "000000222735.jpg",
+        "new_ins": "change the content of tv to show a cartoon\r\ndelete the foreground remote\r\nchange the couch to black leather armchair",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "tv",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "remote",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "couch",
+                "new_obj": "armchair"
+            }
+        ]
+    },
+    "196759": {
+        "img_path": "000000196759.jpg",
+        "new_ins": "change the logo of front trunk to Ruffles\r\ndelete the background car\r\nadd a bird on the sky",
+        "edit pair": [
+            {
+                "edit_type": "text",
+                "ori obj": "front trunk",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "background car",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "bird"
+            }
+        ]
+    },
+    "442480": {
+        "img_path": "000000442480.jpg",
+        "new_ins": "change the color of airplane to red\r\ndelete the left truck\r\nchange the sky to blue sky and white clouds",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "airplane",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "left truck",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "sky",
+                "new_obj": "blue sky and white clouds"
+            }
+        ]
+    },
+    "280779": {
+        "img_path": "000000280779.jpg",
+        "new_ins": "change the color of person's clothes to blue\r\ndelete the backpack on the person's back\r\nchange the skis to snowboard",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "backpack",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "skis",
+                "new_obj": "snowboard"
+            }
+        ]
+    },
+    "445722": {
+        "img_path": "000000445722.jpg",
+        "new_ins": "change the color of the middle person's vest to blue\r\ndelete the person on the right\r\ndelete the guitar",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "middle person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "right person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "guitar",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "490171": {
+        "img_path": "000000490171.jpg",
+        "new_ins": "change the pose of dog to standing\r\ndelete the person behind the dog\r\nadd stripes pattern to the surfboard",
+        "edit pair": [
+            {
+                "edit_type": "pose",
+                "ori obj": "dog",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "surfboard"
+            }
+        ]
+    },
+    "252219": {
+        "img_path": "000000252219.jpg",
+        "new_ins": "change the content of right person's t-shirt to text 'NYC'\r\ndelete the traffic light in the top right corner\r\nchange the content of left person's clothes to striped pattern",
+        "edit pair": [
+            {
+                "edit_type": "text",
+                "ori obj": "right person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "traffic light",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "content",
+                "ori obj": "left person",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "277197": {
+        "img_path": "000000277197.jpg",
+        "new_ins": "change the material of front vase to glass\r\ndelete the background vase\r\nremove the pillow on left chair",
+        "edit pair": [
+            {
+                "edit_type": "material",
+                "ori obj": "front vase",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "background vase",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "pillow",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "316404": {
+        "img_path": "000000316404.jpg",
+        "new_ins": "change the material of left person's shirt to leather\r\ndelete the sports ball in left person's hand\r\nchange the material of right person's shirt to silk",
+        "edit pair": [
+            {
+                "edit_type": "material",
+                "ori obj": "left person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "sports ball",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "material",
+                "ori obj": "right person",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "271728": {
+        "img_path": "000000271728.jpg",
+        "new_ins": "change the pose of cat to standing\r\ndelete the cup on the table\r\nremove the remote",
+        "edit pair": [
+            {
+                "edit_type": "pose",
+                "ori obj": "cat",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "cup",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "remote",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "251572": {
+        "img_path": "000000251572.jpg",
+        "new_ins": "change the pattern of couch to stripe\r\ndelete the dog at right side\r\nchange the hair color of person to black",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "couch",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "dog",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "243204": {
+        "img_path": "000000243204.jpg",
+        "new_ins": "change the pattern of person's scarf to striped\r\ndelete the spoon in the bottom left\r\nchange the color of bricks on the wall to red",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "spoon",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "wall",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "135561": {
+        "img_path": "000000135561.jpg",
+        "new_ins": "change the color of the toaster to red\r\ndelete the clock on the shelf\r\nchange the content of the closet to drawings",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "toaster",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "clock",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "content",
+                "ori obj": "closet",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "189806": {
+        "img_path": "000000189806.jpg",
+        "new_ins": "change the pose of dog to sitting\r\ndelete the cat in the left foreground\r\nchange the material of floor to marble tiles",
+        "edit pair": [
+            {
+                "edit_type": "pose",
+                "ori obj": "dog",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "cat",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "material",
+                "ori obj": "floor",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "377368": {
+        "img_path": "000000377368.jpg",
+        "new_ins": "change the content of cake to 40\r\ndelete the handbag on the bench\r\nchange the color of teddy bear to yellow",
+        "edit pair": [
+            {
+                "edit_type": "text",
+                "ori obj": "cake",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "handbag",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "teddy bear",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "501023": {
+        "img_path": "000000501023.jpg",
+        "new_ins": "change the content of top left stop sign to SLOW\r\ndelete the right stop sign\r\nchange the number on the california 138 sign to 66",
+        "edit pair": [
+            {
+                "edit_type": "text",
+                "ori obj": "left sign",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "right sign",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "text",
+                "ori obj": "middle sign",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "225757": {
+        "img_path": "000000225757.jpg",
+        "new_ins": "change the content of right computer to forest\r\ndelete the right cell phone\r\nchange the content of left computer to video game",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "right computer",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "right cell phone",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "content",
+                "ori obj": "left computer",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "303893": {
+        "img_path": "000000303893.jpg",
+        "new_ins": "change the content of right box to pizza\r\ndelete the pie from the boy's hand\r\nchange the color of girl's clothes to blue",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "right box",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "boy",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "girl",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "482585": {
+        "img_path": "000000482585.jpg",
+        "new_ins": "change the color of right train to yellow\r\ndelete the far person\r\nchange the content of left train to add graffiti",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "right train",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "far person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "content",
+                "ori obj": "left train",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "283038": {
+        "img_path": "000000283038.jpg",
+        "new_ins": "change the text of stop sign to SLOW\r\ndelete the traffic light on the left side\r\nchange the color of the car to blue",
+        "edit pair": [
+            {
+                "edit_type": "text",
+                "ori obj": "stop sign",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "traffic light",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "car",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "560178": {
+        "img_path": "000000560178.jpg",
+        "new_ins": "change the color of the carrot to blue\r\ndelete the right bush\r\nchange the material of the person's hand to Iron Man arm",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "carrot",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "right bush",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "material",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "158945": {
+        "img_path": "000000158945.jpg",
+        "new_ins": "change the material of elephant to wooden\r\ndelete the right person\r\nchange the clothes of left person to T-shirt.",
+        "edit pair": [
+            {
+                "edit_type": "material",
+                "ori obj": "elephant",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "right person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "left person",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "405970": {
+        "img_path": "000000405970.jpg",
+        "new_ins": "change the content of tv to displaying a fireplace video\r\ndelete the cup on the cabinet\r\nchange the content of top book to magazine",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "tv",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "cup",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "content",
+                "ori obj": "top book",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "248111": {
+        "img_path": "000000248111.jpg",
+        "new_ins": "change the material of refrigerator to stainless steel\r\ndelete the cup on the floor\r\nchange the material of flooring to tile",
+        "edit pair": [
+            {
+                "edit_type": "material",
+                "ori obj": "refrigerator",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "cup",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "material",
+                "ori obj": "flooring",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "456303": {
+        "img_path": "000000456303.jpg",
+        "new_ins": "change the content of upper person's armband to number '9'\r\ndelete the lower person at the bottom part of the image\r\nchange the color of the snowboard to white",
+        "edit pair": [
+            {
+                "edit_type": "text",
+                "ori obj": "upper person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "lower person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "snowboard",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "372349": {
+        "img_path": "000000372349.jpg",
+        "new_ins": "change the pose of left person to smiling\r\ndelete the plastic bottles\r\nremove the vase",
+        "edit pair": [
+            {
+                "edit_type": "pose",
+                "ori obj": "left person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "plastic bottles",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "vase",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "363461": {
+        "img_path": "000000363461.jpg",
+        "new_ins": "change the content of right computer to snow mountain scenery\r\ndelete the left mouse behind the laptop on the desk\r\nchange the material of chair to leather",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "right computer",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "mouse",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "material",
+                "ori obj": "chair",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "402433": {
+        "img_path": "000000402433.jpg",
+        "new_ins": "change the topping of pizza to pepperoni and mushroom\r\ndelete the motorcycle on the top-left\r\nadd a fork on the desk",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "pizza",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "motorcycle",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "fork"
+            }
+        ]
+    },
+    "198489": {
+        "img_path": "000000198489.jpg",
+        "new_ins": "change the content of potted plant to green plant\r\ndelete the car in the background\r\nchange the content of person's shirt to stripe pattern",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "potted plant",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "car",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "content",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "203095": {
+        "img_path": "000000203095.jpg",
+        "new_ins": "change the color of apple to green\r\ndelete the right carrot on the right\r\nchange the color of broccoli to purple",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "apple",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "right carrot",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "broccoli",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "186282": {
+        "img_path": "000000186282.jpg",
+        "new_ins": "change the content of computer to solid black screen\r\ndelete the mouse at the bottom right on the mousepad\r\nchange the content of keyboard to black keys",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "computer",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "mouse",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "content",
+                "ori obj": "keyboard",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "78420": {
+        "img_path": "000000078420.jpg",
+        "new_ins": "change the content of laptop to picture of a dog\r\ndelete the chair in the background\r\nadd a pair of sunglasses to the cat",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "laptop",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "chair",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "sunglasses"
+            }
+        ]
+    },
+    "22371": {
+        "img_path": "000000022371.jpg",
+        "new_ins": "change the color of tie to red\r\ndelete the laptop (front left)\r\nremove the glasses in the hand",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "tie",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "laptop",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "glasses",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "31217": {
+        "img_path": "000000031217.jpg",
+        "new_ins": "change the color of the person's shirt to red\r\ndelete the sports ball in the top right\r\nchange the pose of the tennis racket to vertical",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "sports ball",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "pose",
+                "ori obj": "tennis racket",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "239347": {
+        "img_path": "000000239347.jpg",
+        "new_ins": "change the color of the tie to red\r\ndelete the background painting\r\nchange the pattern of the bed to striped",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "tie",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "painting",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "content",
+                "ori obj": "bed",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "89045": {
+        "img_path": "000000089045.jpg",
+        "new_ins": "change the content of center painting to floral pattern\r\ndelete the vase on the table next to the couch\r\nchange the color of magazine to blue",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "center painting",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "vase",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "magazine",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "340894": {
+        "img_path": "000000340894.jpg",
+        "new_ins": "change the content of right monitor to logo\r\ndelete the cell phone on the desk\r\nchange the content of laptop to code editor",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "right monitor",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "cell phone",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "content",
+                "ori obj": "laptop",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "280930": {
+        "img_path": "000000280930.jpg",
+        "new_ins": "change the pattern of person's shirt to star pattern\r\ndelete the refrigerator on the right side\r\nchange the color of bottle to green",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "refrigerator",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "bottle",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "140286": {
+        "img_path": "000000140286.jpg",
+        "new_ins": "change the color of horse to brown\r\ndelete the front person in the carriage\r\nchange the color of back person's clothes to blue",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "horse",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "front person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "back person",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "213935": {
+        "img_path": "000000213935.jpg",
+        "new_ins": "change the color of front orange to red\r\ndelete the top right apple\r\nchange the color of left apple to green",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "front orange",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "right apple",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "left apple",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "25560": {
+        "img_path": "000000025560.jpg",
+        "new_ins": "change the content of tv to mountain landscape\r\nchange the cat to dog\r\ndelete the player",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "tv",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "cat",
+                "new_obj": "dog"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "player",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "301718": {
+        "img_path": "000000301718.jpg",
+        "new_ins": "change the content of center bottle to transparent glass\r\nremove the left bottle\r\nremove the knife",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "center bottle",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "left bottle",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "knife",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "240049": {
+        "img_path": "000000240049.jpg",
+        "new_ins": "change the color of left giraffe's spots to yellow\r\nchange the right giraffe to black and white striped zebra\r\nchange the color of background house to green",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "left giraffe",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "right giraffe",
+                "new_obj": "zebra"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "house",
+                "new_obj": "stuffed bear"
+            }
+        ]
+    },
+    "172595": {
+        "img_path": "000000172595.jpg",
+        "new_ins": "change the content of laptop to displaying a document\r\nchange the backpack to brown leather briefcase\r\nchange the front chair to blue comfortable sofa",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "laptop",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "backpack",
+                "new_obj": "briefcase"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "front chair",
+                "new_obj": "sofa"
+            }
+        ]
+    },
+    "404484": {
+        "img_path": "000000404484.jpg",
+        "new_ins": "change the content of tv to black screen\r\nchange the dog to a brown cat\r\nchange the teddy bear to blonde doll",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "tv",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "dog",
+                "new_obj": "cat"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "teddy bear",
+                "new_obj": "blonde doll"
+            }
+        ]
+    },
+    "235399": {
+        "img_path": "000000235399.jpg",
+        "new_ins": "change the pose of dog to lying down\r\nchange the bed to couch\r\nremove the license plate",
+        "edit pair": [
+            {
+                "edit_type": "pose",
+                "ori obj": "dog",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "bed",
+                "new_obj": "couch"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "license plate",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "46048": {
+        "img_path": "000000046048.jpg",
+        "new_ins": "change the pattern of person's clothes to striped pattern\r\nchange the top book to digital alarm clock\r\nchange the bottom book to magazine",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "top book",
+                "new_obj": "digital alarm clock"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "bottom book",
+                "new_obj": "magazine"
+            }
+        ]
+    },
+    "462728": {
+        "img_path": "000000462728.jpg",
+        "new_ins": "change the color of surfboard to blue\r\nchange the dog to cat\r\nremove the person",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "surfboard",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "dog",
+                "new_obj": "cat"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "55950": {
+        "img_path": "000000055950.jpg",
+        "new_ins": "change the content of person to ABC logo on the t-shirt\r\nchange the sports ball to shuttlecock\r\nchange the tennis racket to red badminton racket",
+        "edit pair": [
+            {
+                "edit_type": "text",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "sports ball",
+                "new_obj": "shuttlecock"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "tennis racket",
+                "new_obj": "badminton racket"
+            }
+        ]
+    },
+    "136600": {
+        "img_path": "000000136600.jpg",
+        "new_ins": "change the content of left bottle to candies\r\nchange the right bottle to ceramic flower pot\r\nchange the laptop to tablet",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "left bottle",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "right bottle",
+                "new_obj": "flower pot"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "laptop",
+                "new_obj": "tablet"
+            }
+        ]
+    },
+    "293625": {
+        "img_path": "000000293625.jpg",
+        "new_ins": "change the content of right person's clothes to flower pattern\r\nchange the wine glass to transparent juice glass\r\nchange the potted plant to vase with flowers",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "right person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "wine glass",
+                "new_obj": "juice glass"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "potted plant",
+                "new_obj": "flowers vase"
+            }
+        ]
+    },
+    "50331": {
+        "img_path": "000000050331.jpg",
+        "new_ins": "change the pose of right broccoli to smaller\r\nchange the left broccoli to white cauliflower\r\nchange the right potted plant to tomato plant",
+        "edit pair": [
+            {
+                "edit_type": "pose",
+                "ori obj": "right broccoli",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "left broccoli",
+                "new_obj": "cauliflower"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "right potted plant",
+                "new_obj": "tomato plant"
+            }
+        ]
+    },
+    "482719": {
+        "img_path": "000000482719.jpg",
+        "new_ins": "change the content of top banana to no spots\r\nchange the apple to bright orange\r\nchange the bowl to ceramic white plate",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "top banana",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "apple",
+                "new_obj": "orange"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "bowl",
+                "new_obj": "plate"
+            }
+        ]
+    },
+    "281754": {
+        "img_path": "000000281754.jpg",
+        "new_ins": "change the pattern of umbrella to striped pattern\r\nchange the handbag to leather backpack\r\nremove the wristband",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "umbrella",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "handbag",
+                "new_obj": "backpack"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "wristband",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "290843": {
+        "img_path": "000000290843.jpg",
+        "new_ins": "change the logo of laptop to Apple logo\r\nadd a painting on the wall\r\nchange the cat to sitting corgi",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "laptop",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "painting"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "cat",
+                "new_obj": "corgi"
+            }
+        ]
+    },
+    "71938": {
+        "img_path": "000000071938.jpg",
+        "new_ins": "change the content of cell phone to displaying time\r\nchange the color of the pillow to colorful\r\nadd an eye mask to the person",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "cell phone",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "pillow",
+                "new_obj": "teddy bear"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "eye mask"
+            }
+        ]
+    },
+    "251140": {
+        "img_path": "000000251140.jpg",
+        "new_ins": "change the text of book to THE SINGLE-SPEED BICYCLE\r\nchange the lower bicycle to blue scooter\r\nchange the text ROSA to BOB",
+        "edit pair": [
+            {
+                "edit_type": "text",
+                "ori obj": "book",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "lower bicycle",
+                "new_obj": "scooter"
+            },
+            {
+                "edit_type": "text",
+                "ori obj": "ROSA",
+                "new_obj": "unicycle"
+            }
+        ]
+    },
+    "378605": {
+        "img_path": "000000378605.jpg",
+        "new_ins": "change the topping of donut to strawberry\r\nchange the material of cup to glass\r\nchange the dining table to granite countertop",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "donut",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "material",
+                "ori obj": "cup",
+                "new_obj": "glass"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "dining table",
+                "new_obj": "countertop"
+            }
+        ]
+    },
+    "223789": {
+        "img_path": "000000223789.jpg",
+        "new_ins": "change the color of left candle to white\r\nchange the right candle to glass soap dispenser\r\nchange the left bottle to wooden essential oil diffuser",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "left candle",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "right candle",
+                "new_obj": "soap dispenser"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "left bottle",
+                "new_obj": "essential oil diffuser"
+            }
+        ]
+    },
+    "246454": {
+        "img_path": "000000246454.jpg",
+        "new_ins": "change the pattern of handbag to polka dot pattern\r\nchange the front dog to cat\r\nchange the back dog to golden retriever",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "handbag",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "front dog",
+                "new_obj": "cat"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "back dog",
+                "new_obj": "golden retriever"
+            }
+        ]
+    },
+    "214753": {
+        "img_path": "000000214753.jpg",
+        "new_ins": "change the pose of right horse to runing\r\nchange the color of left horse to white\r\nchange the color of left person's clothes to red",
+        "edit pair": [
+            {
+                "edit_type": "pose",
+                "ori obj": "right horse",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "left horse",
+                "new_obj": "donkey"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "left person",
+                "new_obj": "child"
+            }
+        ]
+    },
+    "17029": {
+        "img_path": "000000017029.jpg",
+        "new_ins": "change the pose of dog to sitting\r\nchange the frisbee to tennis ball\r\nchange the center car to red truck",
+        "edit pair": [
+            {
+                "edit_type": "pose",
+                "ori obj": "dog",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "frisbee",
+                "new_obj": "tennis ball"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "center car",
+                "new_obj": "red truck"
+            }
+        ]
+    },
+    "244379": {
+        "img_path": "000000244379.jpg",
+        "new_ins": "change the light of left traffic light to green\r\nchange the light of right traffic light to yellow\r\nchange the car to bus",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "left traffic light",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "right traffic light",
+                "new_obj": "street lamp"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "car",
+                "new_obj": "bus"
+            }
+        ]
+    },
+    "2431": {
+        "img_path": "000000002431.jpg",
+        "new_ins": "change the color of wine glass to white\r\nchange the cup to wooden bowl\r\nchange the knife to silver fork",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "wine glass",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "cup",
+                "new_obj": "bowl"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "knife",
+                "new_obj": "fork"
+            }
+        ]
+    },
+    "170191": {
+        "img_path": "000000170191.jpg",
+        "new_ins": "change the pattern of person's robe to floral pattern\r\nchange the bed to futon\r\nchange the suitcase to blue backpack",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "bed",
+                "new_obj": "futon"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "suitcase",
+                "new_obj": "backpack"
+            }
+        ]
+    },
+    "99054": {
+        "img_path": "000000099054.jpg",
+        "new_ins": "change the text of back airplane to QATARAIRWAYS\r\nchange the front airplane to silver private jet\r\nchange the truck to white airport bus",
+        "edit pair": [
+            {
+                "edit_type": "text",
+                "ori obj": "back airplane",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "front airplane",
+                "new_obj": "private jet"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "truck",
+                "new_obj": "airport bus"
+            }
+        ]
+    },
+    "577539": {
+        "img_path": "000000577539.jpg",
+        "new_ins": "change the material of bowl to ceramic\r\nchange the banana to red strawberry\r\nchange the bellow chocolate to orange slice",
+        "edit pair": [
+            {
+                "edit_type": "material",
+                "ori obj": "bowl",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "banana",
+                "new_obj": "strawberry"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "bellow chocolate",
+                "new_obj": "orange slice"
+            }
+        ]
+    },
+    "363840": {
+        "img_path": "000000363840.jpg",
+        "new_ins": "change the content of laptop to blank page\r\nchange the black mouse to silver trackball\r\nchange the keyboard to mechanical keyboard",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "laptop",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "black mouse",
+                "new_obj": "trackball"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "keyboard",
+                "new_obj": "mechanical keyboard"
+            }
+        ]
+    },
+    "94944": {
+        "img_path": "000000094944.jpg",
+        "new_ins": "change the color of the snowboard to red\r\nchange the skis to wooden snowshoes\r\nchange the front person backpack to blue ski jacket",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "snowboard",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "skis",
+                "new_obj": "snowshoes"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "front person",
+                "new_obj": "ski jacket"
+            }
+        ]
+    },
+    "213224": {
+        "img_path": "000000213224.jpg",
+        "new_ins": "change the material of right vase to ceramic\r\nchange the left vase to terracotta flower pot\r\nchange the left chair to armchair",
+        "edit pair": [
+            {
+                "edit_type": "material",
+                "ori obj": "right vase",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "left vase",
+                "new_obj": "flower pot"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "left chair",
+                "new_obj": "armchair"
+            }
+        ]
+    },
+    "395633": {
+        "img_path": "000000395633.jpg",
+        "new_ins": "change the logo of boat to N\r\nremove the person\r\ndelete the banner",
+        "edit pair": [
+            {
+                "edit_type": "text",
+                "ori obj": "boat",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "banner",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "313130": {
+        "img_path": "000000313130.jpg",
+        "new_ins": "change the color of refrigerator to blue\r\nchange the microwave to silver toaster oven\r\nchange the left chair to wooden stool",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "refrigerator",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "microwave",
+                "new_obj": "toaster oven"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "chair",
+                "new_obj": "stool"
+            }
+        ]
+    },
+    "465430": {
+        "img_path": "000000465430.jpg",
+        "new_ins": "change the content of left sandwich to cheese\r\nchange the top spoon to silver fork\r\nchange the right sandwich to golden waffle",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "left sandwich",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "top spoon",
+                "new_obj": "silver fork"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "right sandwich",
+                "new_obj": "waffle"
+            }
+        ]
+    },
+    "105014": {
+        "img_path": "000000105014.jpg",
+        "new_ins": "remove broccoli\r\nchange the tomato to red bell pepper\r\nremove bottle cap",
+        "edit pair": [
+            {
+                "edit_type": "delete object",
+                "ori obj": "broccoli",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "tomato",
+                "new_obj": "red bell pepper"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "bottle cap",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "269316": {
+        "img_path": "000000269316.jpg",
+        "new_ins": "remove the left person\r\nchange the frisbee to yellow tennis ball\r\nchange the content of right person's shirt to number 7",
+        "edit pair": [
+            {
+                "edit_type": "delete object",
+                "ori obj": "left person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "frisbee",
+                "new_obj": "tennis ball"
+            },
+            {
+                "edit_type": "text",
+                "ori obj": "right person",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "463283": {
+        "img_path": "000000463283.jpg",
+        "new_ins": "change the color of orange to green\r\nchange the front cup to wine glass\r\nchange the material of back cup to metal",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "orange",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "front cup",
+                "new_obj": "wine glass"
+            },
+            {
+                "edit_type": "material",
+                "ori obj": "back cup",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "110449": {
+        "img_path": "000000110449.jpg",
+        "new_ins": "change the text of left person's t-shirt to Perfect day\r\nremove the headphones\r\nchange the color of right person's t-shirt to red",
+        "edit pair": [
+            {
+                "edit_type": "text",
+                "ori obj": "left person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "headphones",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "right person",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "346968": {
+        "img_path": "000000346968.jpg",
+        "new_ins": "remove the cell phone\r\nchange the top book to silver closed laptop\r\nremove the glasses",
+        "edit pair": [
+            {
+                "edit_type": "delete object",
+                "ori obj": "cell phone",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "top book",
+                "new_obj": "closed laptop"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "glasses",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "77595": {
+        "img_path": "000000077595.jpg",
+        "new_ins": "change the pose of cat to smiling\r\nchange the laptop to tablet\r\nchange the pattern of bed to solid color",
+        "edit pair": [
+            {
+                "edit_type": "pose",
+                "ori obj": "cat",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "laptop",
+                "new_obj": "tablet"
+            },
+            {
+                "edit_type": "content",
+                "ori obj": "bed",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "533145": {
+        "img_path": "000000533145.jpg",
+        "new_ins": "change the color of remote to black\r\nchange the tv to laptop\r\nchange the content of the wall to graffiti",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "remote",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "tv",
+                "new_obj": "laptop"
+            },
+            {
+                "edit_type": "content",
+                "ori obj": "wall",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "384670": {
+        "img_path": "000000384670.jpg",
+        "new_ins": "change the pose of the foreground person to jumping to hit a tennis ball\r\nchange the background person to coach\r\nchange the material of tennis racket to wooden",
+        "edit pair": [
+            {
+                "edit_type": "pose",
+                "ori obj": "foreground person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "background person",
+                "new_obj": "coach"
+            },
+            {
+                "edit_type": "material",
+                "ori obj": "tennis racket",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "147415": {
+        "img_path": "000000147415.jpg",
+        "new_ins": "change the content of laptop to blank\r\nchange the chair to wooden stool\r\nchange the content of center book to magazine",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "laptop",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "chair",
+                "new_obj": "wooden stool"
+            },
+            {
+                "edit_type": "content",
+                "ori obj": "center book",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "492284": {
+        "img_path": "000000492284.jpg",
+        "new_ins": "change the pose of cat to sitting\r\nremove the green backpack of the person\r\nchange the color of person's clothes to white",
+        "edit pair": [
+            {
+                "edit_type": "pose",
+                "ori obj": "cat",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "green backpack",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "446522": {
+        "img_path": "000000446522.jpg",
+        "new_ins": "change the pattern of chair to striped pattern\r\nchange the dog to white cat\r\nchange the material of refrigerator to stainless steel",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "chair",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "dog",
+                "new_obj": "cat"
+            },
+            {
+                "edit_type": "material",
+                "ori obj": "refrigerator",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "545007": {
+        "img_path": "000000545007.jpg",
+        "new_ins": "change the content of right clock to roman numerals\r\nchange the top person to eagle statue\r\nchange the content of left clock to digital numbers",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "right clock",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "top person",
+                "new_obj": "eagle statue"
+            },
+            {
+                "edit_type": "content",
+                "ori obj": "left clock",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "362682": {
+        "img_path": "000000362682.jpg",
+        "new_ins": "change the text of bus to TOKYO sightseeing bus\r\nchange the truck to blue van\r\nchange the image of person to cat image on the bus",
+        "edit pair": [
+            {
+                "edit_type": "text",
+                "ori obj": "bus",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "truck",
+                "new_obj": "van"
+            },
+            {
+                "edit_type": "content",
+                "ori obj": "bus",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "348481": {
+        "img_path": "000000348481.jpg",
+        "new_ins": "change the content on the cover of the top book to a pure brown\r\nchange the cell phone to black smartphone\r\nremove the laptop",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "book",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "cell phone",
+                "new_obj": "smartphone"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "laptop",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "401991": {
+        "img_path": "000000401991.jpg",
+        "new_ins": "remove the cat\r\nchange the right dog to brown teddy bear\r\nchange the color of quilt to white",
+        "edit pair": [
+            {
+                "edit_type": "delete object",
+                "ori obj": "cat",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "right dog",
+                "new_obj": "teddy bear"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "quilt",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "332845": {
+        "img_path": "000000332845.jpg",
+        "new_ins": "change the content of laptop to displaying a photo of a cat\r\nchange the chair to brown leather armchair\r\nremove the curtain",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "laptop",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "chair",
+                "new_obj": "armchair"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "curtain",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "33368": {
+        "img_path": "000000033368.jpg",
+        "new_ins": "change the text of ground to RRR\r\nchange the sports ball to blue water bottle\r\nchange the logo of tennis racket to H",
+        "edit pair": [
+            {
+                "edit_type": "text",
+                "ori obj": "ground",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "sports ball",
+                "new_obj": "water bottle"
+            },
+            {
+                "edit_type": "text",
+                "ori obj": "tennis racket",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "497568": {
+        "img_path": "000000497568.jpg",
+        "new_ins": "change the text of airplane to Delta\r\nremove the person\r\nchange the color of airplane to blue",
+        "edit pair": [
+            {
+                "edit_type": "text",
+                "ori obj": "airplane",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "airplane",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "322724": {
+        "img_path": "000000322724.jpg",
+        "new_ins": "change the material of foreground person's jacket to leather\r\nchange the skis to snowboard\r\nchange the color of background person's clothes to black",
+        "edit pair": [
+            {
+                "edit_type": "material",
+                "ori obj": "foreground person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "skis",
+                "new_obj": "snowboard"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "background person",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "560880": {
+        "img_path": "000000560880.jpg",
+        "new_ins": "change the color of right dog to white\r\nchange the driver person to straw scarecrow\r\nremove the two horses",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "right dog",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "driver person",
+                "new_obj": "scarecrow"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "horses",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "112798": {
+        "img_path": "000000112798.jpg",
+        "new_ins": "change the pose of cat to look up at the camera\r\nchange the book to brown notebook\r\nremove the pen on the desk",
+        "edit pair": [
+            {
+                "edit_type": "pose",
+                "ori obj": "cat",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "book",
+                "new_obj": "brown notebook"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "pen",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "58705": {
+        "img_path": "000000058705.jpg",
+        "new_ins": "change the pattern of tie to striped\r\nchange the banana to red apple\r\nchange the hat of left person to cowboy hat",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "tie",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "banana",
+                "new_obj": "red apple"
+            },
+            {
+                "edit_type": "material",
+                "ori obj": "left person",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "108026": {
+        "img_path": "000000108026.jpg",
+        "new_ins": "change the material of keyboard to metal\r\nchange the color of mouse to white\r\nchange the content of person to wearing red gloves",
+        "edit pair": [
+            {
+                "edit_type": "material",
+                "ori obj": "keyboard",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "mouse",
+                "new_obj": "trackball"
+            },
+            {
+                "edit_type": "content",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "463618": {
+        "img_path": "000000463618.jpg",
+        "new_ins": "change the content of the tv to playing cartoon\r\nchange the bird to a brown hamster\r\nchange the color of the right person's top to blue",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "tv",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "bird",
+                "new_obj": "hamster"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "right person",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "441442": {
+        "img_path": "000000441442.jpg",
+        "new_ins": "change the pose of horse to look up and forward\r\nremove the right person riding the horse\r\nchange the color of jacket of left person to red",
+        "edit pair": [
+            {
+                "edit_type": "pose",
+                "ori obj": "horse",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "right person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "color",
+                "ori obj": "left person",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "157928": {
+        "img_path": "000000157928.jpg",
+        "new_ins": "change the color of left person's clothes to blue\r\nchange the right car to white van\r\nchange the pose of right person to standing straight",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "left person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "right car",
+                "new_obj": "van"
+            },
+            {
+                "edit_type": "pose",
+                "ori obj": "right person",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "80153": {
+        "img_path": "000000080153.jpg",
+        "new_ins": "change the content of person's clothes to jacket with a logo\r\nchange the dog to tan fox\r\nchange the material of skis to wooden",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "dog",
+                "new_obj": "fox"
+            },
+            {
+                "edit_type": "material",
+                "ori obj": "skis",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "152771": {
+        "img_path": "000000152771.jpg",
+        "new_ins": "add a basket to the bicycle\r\nchange the left fire hydrant to green trash can\r\nchange the material of right fire hydrant to plastic",
+        "edit pair": [
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "bicycle"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "left fire hydrant",
+                "new_obj": "trash can"
+            },
+            {
+                "edit_type": "material",
+                "ori obj": "right fire hydrant",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "7574": {
+        "img_path": "000000007574.jpg",
+        "new_ins": "change the color of right wine glass to red\r\nchange the counter bowl to wicker fruit basket\r\nchange the material of refrigerator to ceramic with patterns",
+        "edit pair": [
+            {
+                "edit_type": "color",
+                "ori obj": "right wine glass",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "counter bowl",
+                "new_obj": "fruit basket"
+            },
+            {
+                "edit_type": "material",
+                "ori obj": "refrigerator",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "81594": {
+        "img_path": "000000081594.jpg",
+        "new_ins": "change the pattern of the umbrella to polka dots\r\nchange the handbag to brown leather tote bag\r\nchange the material of the coat of person to leather",
+        "edit pair": [
+            {
+                "edit_type": "content",
+                "ori obj": "umbrella",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "change object",
+                "ori obj": "handbag",
+                "new_obj": "tote bag"
+            },
+            {
+                "edit_type": "material",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "575081": {
+        "img_path": "000000575081.jpg",
+        "new_ins": "change the pose of person to sitting down\r\nremove  potted plants outside the window\r\nchange the material of remote to metal",
+        "edit pair": [
+            {
+                "edit_type": "pose",
+                "ori obj": "person",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "potted plants",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "material",
+                "ori obj": "remote",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "88951": {
+        "img_path": "000000088951.jpg",
+        "new_ins": "change the material of the bench to metal\r\nadd a cat on the bench\r\ndelete the dog on the ground",
+        "edit pair": [
+            {
+                "edit_type": "material",
+                "ori obj": "bench",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "add object",
+                "ori obj": "nothing",
+                "new_obj": "puppy"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "dog",
+                "new_obj": "nothing"
+            }
+        ]
+    },
+    "459500": {
+        "img_path": "000000459500.jpg",
+        "new_ins": "change the material of left bird to gold\r\nremove the car\r\nchange the time of clock to 3:00",
+        "edit pair": [
+            {
+                "edit_type": "material",
+                "ori obj": "left bird",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "delete object",
+                "ori obj": "car",
+                "new_obj": "nothing"
+            },
+            {
+                "edit_type": "content",
+                "ori obj": "clock",
+                "new_obj": "nothing"
+            }
+        ]
+    }
+}
