@@ -8,11 +8,11 @@ Image Editing via Compositional Dependencies
 `ComplexBench-Edit` is a  benchmark for image editing specifically designed to assess performance on complex instructions involving multiple combined and dependent modifications. Our benchmark systematically evaluates howwell models can handle both parallel and, critically, chain-dependent instructions. Furthermore, we propose a novel vision consistency evaluation method that excludes the influence of modified content by assessing consistency only in the remaining, unaltered regions. We also introduce a simple yet powerful CoT-based approach for image editing.
 
 
-## ✨ TODO
+# 🔥 News
 
-- [ ] Release the comparison results between different baselines and GPT-4o.
-- [x] Release ComplexBench-Edit Benchmark.
-- [x] Release evaluation code.
+- [2025.6.3] We release the comparison cases between different baselines and GPT-4o.
+- [2025.6.2] We release the source image and editing instructions about ComplexBench-Edit Benchmark.
+- [2025.6.1] We release the evaluation code.
 
 # ⭐ Benchmark Collection
 ![Overview Figure](./data/pipeline.jpg)
@@ -29,7 +29,7 @@ Image Editing via Compositional Dependencies
     ```bash
     pip install -r requirements.txt
     ```
-3.  **Download Datasets:** You can download the source image from [ [**Here**](https://drive.google.com/drive/folders/1G7O6LrYEwqls4dSA-iDlqK_2WH3nlF_F?usp=drive_link) ], put the source images in `data/more-object-no-multi3` directory. Overview of datas could be found in [Model card. (soon) ](https://github.com/llllly26/ComplexBench-Edit)
+3.  **Download Datasets:** The source image could be downloaded from [ [**Here**](https://drive.google.com/drive/folders/1G7O6LrYEwqls4dSA-iDlqK_2WH3nlF_F?usp=drive_link) ], put the source images in `data/more-object-no-multi3` directory. Overview of datas could be found in [Model card. (soon) ](https://github.com/llllly26/ComplexBench-Edit)
 
 # 🧳 Project Folder Structure
 
@@ -75,3 +75,5 @@ python .\evaluation\ins_eval.py --results_folder ".\edited-image\Gemini\COCO-thr
 ```
 
 # 🎈 Case Editing Results
+Here, we showcase several examples from our ComplexBench-Edit benchmark. The image demonstrates the evaluation results of leading instruction-driven editing methods, including GPT-4o.
+![Case Editing Results](./data/cases.png)
