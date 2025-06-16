@@ -29,7 +29,7 @@ Image Editing via Compositional Dependencies
     ```bash
     pip install -r requirements.txt
     ```
-3.  **Download Datasets:** The source image could be downloaded from [ [**Here**](https://drive.google.com/drive/folders/1G7O6LrYEwqls4dSA-iDlqK_2WH3nlF_F?usp=drive_link) ], put the source images in `data/more-object-no-multi3` directory. Overview of datas could be found in [Model card. (soon) ](https://github.com/llllly26/ComplexBench-Edit)
+3.  **Download Datasets:** The source image could be downloaded from [ [**Here**](https://drive.google.com/drive/folders/1G7O6LrYEwqls4dSA-iDlqK_2WH3nlF_F?usp=drive_link) ], put the source images in `data/more-object-no-multi3` directory. Overview of data could be found in [Huggingface Dataset](https://huggingface.co/datasets/liyyy/ComplexBench-Edit)
 
 # 🧳 Project Folder Structure
 
