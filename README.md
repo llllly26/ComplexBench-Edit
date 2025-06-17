@@ -51,7 +51,6 @@ ComplexBench-Edit/
 ├── LICENSE
 ├── README.md
 ├── baselines/                  # Contains implementations of some baseline models
-│   ├── Gemini-CoT/             # Example: Gemini CoT baseline
 │   ├── icedit.py
 ├── data/                       # Contains benchmark images and instructions in json file.
     │   ├── instructions/
