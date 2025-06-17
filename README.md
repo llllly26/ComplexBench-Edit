@@ -3,9 +3,18 @@
 Image Editing via Compositional Dependencies
 </h1>
 
-[![arXiv](https://img.shields.io/badge/arXiv-2506.12830-b31b1b.svg)](https://arxiv.org/pdf/2506.12830)
-[![Dataset](https://img.shields.io/badge/🤗%20Huggingface-Dataset-yellow)](https://huggingface.co/datasets/liyyy/ComplexBench-Edit)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/llllly26/ComplexBench-Edit)
+<p align="center">
+<a href="https://arxiv.org/pdf/2506.12830">
+    <img src='https://img.shields.io/badge/arXiv-2506.12830-b31b1b.svg'>
+</a>
+<a href="https://huggingface.co/datasets/liyyy/ComplexBench-Edit">
+    <img src='https://img.shields.io/badge/🤗%20Huggingface-Dataset-yellow'>
+</a>
+<a href="https://github.com/llllly26/ComplexBench-Edit">
+    <img src='https://img.shields.io/badge/GitHub-Repo-181717?logo=github'>
+</a>
+
+</p>
 
 # 🌍 Introduction
 
@@ -33,7 +42,7 @@ Image Editing via Compositional Dependencies
     ```bash
     pip install -r requirements.txt
     ```
-3.  **Download Datasets:** The source image could be downloaded from [ [**Here**](https://drive.google.com/drive/folders/1G7O6LrYEwqls4dSA-iDlqK_2WH3nlF_F?usp=drive_link) ], put the source images in `data/more-object-no-multi3` directory. Overview of data could be found in [Huggingface Dataset](https://huggingface.co/datasets/liyyy/ComplexBench-Edit)
+3.  **Download Datasets:** The source image could be downloaded from [ [**Here**](https://drive.google.com/drive/folders/1G7O6LrYEwqls4dSA-iDlqK_2WH3nlF_F?usp=drive_link) ], put the source images in `data/more-object-no-multi3` directory. Overview of data could be found in [![Dataset](https://img.shields.io/badge/🤗%20Huggingface-Dataset-yellow)](https://huggingface.co/datasets/liyyy/ComplexBench-Edit)
 
 # 🧳 Project Folder Structure
 
@@ -81,3 +90,17 @@ python .\evaluation\ins_eval.py --results_folder ".\edited-image\Gemini\COCO-thr
 # 🎈 Case Editing Results
 Here, we showcase several examples from our ComplexBench-Edit benchmark. The image demonstrates the evaluation results of leading instruction-driven editing methods, including GPT-4o.
 ![Case Editing Results](./data/cases.png)
+
+## Citation
+If you find that this work is useful for your research, please kindly give a star ⭐ and consider citation:
+```
+@misc{wang2025complexbencheditbenchmarkingcomplexinstructiondriven,
+      title={ComplexBench-Edit: Benchmarking Complex Instruction-Driven Image Editing via Compositional Dependencies}, 
+      author={Chenglin Wang and Yucheng Zhou and Qianning Wang and Zhe Wang and Kai Zhang},
+      year={2025},
+      eprint={2506.12830},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2506.12830}, 
+}
+```
