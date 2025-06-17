@@ -1,5 +1,5 @@
 <h1 align="center" style="line-height: 50px;">
-  ComplexBench-Edit: Benchmarking Complex Instruction-Driven
+  🎨ComplexBench-Edit: Benchmarking Complex Instruction-Driven
 Image Editing via Compositional Dependencies
 </h1>
 
