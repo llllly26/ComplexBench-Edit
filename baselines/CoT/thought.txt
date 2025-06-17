@@ -1,0 +1,11 @@
+Follow these steps to think through how to execute an instruction-based image edit based on the source image and user instruction, and outline your thought process.
+1. Image Analysis : Generate the image caption and understand the image.
+2. Instruction Deconstruction : Break down user instruction into individual operations, understanding and specifying edit type, target object/location, and the precise modification or target attribute.
+3. Coordinate Planning : Determine how to execute each instruction to implement the editing while preserving unmodified regions.
+4. Construct Output : Describe how all modifications will be integrated into a coherent visual execution blueprint, including an envisioned outcome.
+Output must be strict JSON. Follow this format:
+```json
+{
+"thought": "describe your thought process about the overall execution flow and key stages. e.g., First, analyze image A's characteristics; then, break down user instruction B into specific operations C, D; next, plan the execution sequence and coordination E; finally, construct visual blueprint."
+}
+```
