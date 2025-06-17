@@ -3,6 +3,10 @@
 Image Editing via Compositional Dependencies
 </h1>
 
+[![arXiv](https://img.shields.io/badge/arXiv-2506.12830-b31b1b.svg)](https://arxiv.org/pdf/2506.12830)
+[![Dataset](https://img.shields.io/badge/🤗%20Huggingface-Dataset-yellow)](https://huggingface.co/datasets/liyyy/ComplexBench-Edit)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/llllly26/ComplexBench-Edit)
+
 # 🌍 Introduction
 
 `ComplexBench-Edit` is a  benchmark for image editing specifically designed to assess performance on complex instructions involving multiple combined and dependent modifications. Our benchmark systematically evaluates howwell models can handle both parallel and, critically, chain-dependent instructions. Furthermore, we propose a novel vision consistency evaluation method that excludes the influence of modified content by assessing consistency only in the remaining, unaltered regions. We also introduce a simple yet powerful CoT-based approach for image editing.
