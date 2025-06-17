@@ -1,7 +1,7 @@
-<h1 align="center" style="line-height: 50px;">
+<h2 align="center" style="line-height: 40px;">
   🎨ComplexBench-Edit: Benchmarking Complex Instruction-Driven
 Image Editing via Compositional Dependencies
-</h1>
+</h2>
 
 <p align="center">
 <a href="https://arxiv.org/pdf/2506.12830">
