@@ -93,13 +93,10 @@ Here, we showcase several examples from our ComplexBench-Edit benchmark. The ima
 ## Citation
 If you find that this work is useful for your research, please kindly give a star ⭐ and consider citation:
 ```
-@misc{wang2025complexbencheditbenchmarkingcomplexinstructiondriven,
-      title={ComplexBench-Edit: Benchmarking Complex Instruction-Driven Image Editing via Compositional Dependencies}, 
-      author={Chenglin Wang and Yucheng Zhou and Qianning Wang and Zhe Wang and Kai Zhang},
-      year={2025},
-      eprint={2506.12830},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2506.12830}, 
+@article{wang2025complexbench,
+  title={ComplexBench-Edit: Benchmarking Complex Instruction-Driven Image Editing via Compositional Dependencies},
+  author={Wang, Chenglin and Zhou, Yucheng and Wang, Qianning and Wang, Zhe and Zhang, Kai},
+  journal={arXiv preprint arXiv:2506.12830},
+  year={2025}
 }
 ```
